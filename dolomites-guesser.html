@@ -1,0 +1,100 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Dolomites Guesser</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css"><script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script><style>
+body{font-family:system-ui,sans-serif;background:#10161c;color:#eee;margin:0;display:flex;flex-direction:column;align-items:center;padding:16px}
+#wrap{max-width:900px;width:100%}
+#img{width:100%;height:60vh;object-fit:contain;background:#000;border-radius:10px}
+.row{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0}
+button{flex:1 1 40%;padding:14px;border:0;border-radius:8px;background:#2b3a48;color:#fff;font-size:16px;cursor:pointer}
+button:hover{background:#3b5268}.ok{background:#2e8b57!important}.bad{background:#b23b3b!important}
+#bar{display:flex;justify-content:space-between;margin-bottom:8px}small{color:#9ab}
+</style></head><body><div id="wrap">
+<div id="bar"><b>🏔 Dolomites Guesser</b><span id="st"></span></div>
+<img id="img" alt=""><small id="cr"></small>
+<div class="row"><button id="more" style="flex:1 1 100%;background:#46506a">🔄 Show another angle (−25)</button></div>
+<div class="row"><button id="rep" style="background:#7a3b3b">🚩 Report unclear photo</button><button id="ok" style="background:#2e6b4a">✅ Approve photo</button><button id="mode" style="flex:1 1 100%;background:#46506a"></button><button id="gm" style="flex:1 1 100%;background:#46506a"></button><button id="tg" style="flex:1 1 100%;background:#46506a"></button><button id="exp">⬇ Export blacklist</button><button id="imp">⬆ Import blacklist</button><input type="file" id="fi" accept=".json" hidden></div>
+<small id="bl"></small>
+<div id="map" style="display:none;height:42vh;border-radius:10px;margin:10px 0"></div>
+<div class="row" id="opts"></div><div id="msg"></div></div>
+<script>
+const M=["Tre Cime di Lavaredo","Marmolada","Sassolungo","Cinque Torri","Piz Boè Sella","Cristallo","Tofane","Monte Pelmo","Civetta","Antelao","Sorapiss","Catinaccio Rosengarten","Latemar","Pale di San Martino","Cimon della Pala","Seceda","Odle Geisler","Sass Rigais","Lagazuoi","Croda da Lago","Marmarole","Sciliar Schlern","Piz Popena","Cadini di Misurina","Torre Trieste"];
+let BL=new Set();try{BL=new Set(JSON.parse(localStorage.getItem("bl")||"[]"))}catch(e){}
+let WL={};try{WL=JSON.parse(localStorage.getItem("wl")||"{}")}catch(e){}
+let CUR=false,PIN=false,CB=true;const used=new Set();try{CB=localStorage.getItem("cb")!=="0"}catch(e){}
+const C={"Tre Cime di Lavaredo":[46.6186,12.3028],"Marmolada":[46.4342,11.8514],"Sassolungo":[46.5106,11.7578],"Cinque Torri":[46.5231,12.0383],"Piz Boè Sella":[46.5086,11.8267],"Cristallo":[46.57,12.22],"Tofane":[46.5019,12.0617],"Monte Pelmo":[46.4289,12.1844],"Civetta":[46.3769,12.0514],"Antelao":[46.4639,12.265],"Sorapiss":[46.52,12.23],"Catinaccio Rosengarten":[46.4639,11.63],"Latemar":[46.3764,11.5867],"Pale di San Martino":[46.27,11.84],"Cimon della Pala":[46.2886,11.8344],"Seceda":[46.607,11.72],"Odle Geisler":[46.627,11.75],"Sass Rigais":[46.6189,11.7597],"Lagazuoi":[46.5189,12.0069],"Croda da Lago":[46.4722,12.1089],"Marmarole":[46.51,12.34],"Sciliar Schlern":[46.5,11.5667],"Piz Popena":[46.585,12.24],"Cadini di Misurina":[46.5906,12.2814],"Torre Trieste":[46.357,12.031]};
+const km=(a,b)=>{const q=Math.PI/180,x=(b[0]-a[0])*q,y=(b[1]-a[1])*q*Math.cos(a[0]*q);return 6371*Math.hypot(x,y)};
+let map,lg,pinM;
+function initMap(){if(map){map.invalidateSize();return}
+ map=L.map("map").setView([46.5,11.95],9);
+ L.tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",{attribution:"Esri",maxZoom:17}).addTo(map);
+ lg=L.layerGroup().addTo(map);
+ map.on("click",e=>{if(locked)return;if(pinM)pinM.setLatLng(e.latlng);else pinM=L.marker(e.latlng).addTo(lg);const b=$("cf");if(b)b.disabled=false})}
+const nextBtn=()=>{const nb=document.createElement("button");nb.textContent="Next ▶";nb.style.flex="1 1 100%";nb.onclick=next;$("opts").appendChild(nb)};
+function cfm(){if(locked||!pinM)return;locked=true;
+ const p=pinM.getLatLng(),t=C[cur.m],d=km([p.lat,p.lng],t),g=Math.round(Math.round(100*Math.exp(-d/8))*pts/100);score+=g;
+ L.circleMarker(t,{color:"lime",radius:9}).addTo(lg);L.polyline([[p.lat,p.lng],t],{color:"yellow"}).addTo(lg);
+ map.fitBounds([[p.lat,p.lng],t],{padding:[40,40],maxZoom:12});
+ $("msg").textContent=`📍 ${cur.m} — ${d.toFixed(1)} km away · +${g}`;$("st").textContent=`Round ${round}/${R} · Score ${score}`;
+ $("opts").innerHTML="";nextBtn()}
+const restart=()=>{used.clear();round=0;score=0;$("img").style.display=$("more").style.display="";next()};
+const nWL=()=>Object.values(WL).reduce((a,l)=>a+l.length,0);
+const saveBL=()=>{try{localStorage.setItem("bl",JSON.stringify([...BL]));localStorage.setItem("wl",JSON.stringify(WL))}catch(e){}
+$("bl").textContent=`Blacklisted: ${BL.size} · Approved: ${nWL()} (${Object.values(WL).filter(l=>l.length>=2).length} mountains playable in curated mode)`;
+$("gm").textContent=PIN?"Game: 📍 Pinpoint (click for multiple choice)":"Game: 🔤 Multiple choice (click for pinpoint)";
+$("tg").textContent=CB?"Approve/Report buttons: ON (click to hide)":"Approve/Report buttons: OFF (click to show)";
+$("rep").style.display=$("ok").style.display=CB?"":"none";
+$("mode").textContent=CUR?"Mode: ⭐ Curated only (click for all photos)":"Mode: all photos (click for curated only)"};
+const R=10,pool={};let round=0,score=0,cur,shown,pts,locked;
+const $=i=>document.getElementById(i);
+async function load(m){
+ if(pool[m])return pool[m];
+ const q=encodeURIComponent(m+" Dolomiti");
+ const u=`https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=${q}&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|mime|extmetadata&iiurlwidth=1100&format=json&origin=*`;
+ try{const d=await (await fetch(u)).json();
+ pool[m]=Object.values(d.query?.pages||{}).filter(p=>p.imageinfo?.[0]?.mime==="image/jpeg"&&!BL.has(p.imageinfo[0].thumburl)).map(p=>({u:p.imageinfo[0].thumburl,a:(p.imageinfo[0].extmetadata?.Artist?.value||"").replace(/<[^>]+>/g,"")}));
+ }catch(e){pool[m]=[]}
+ return pool[m];
+}
+const shuf=a=>a.map(x=>[Math.random(),x]).sort((a,b)=>a[0]-b[0]).map(x=>x[1]);
+function show(){const p=cur.imgs[shown%cur.imgs.length];$("img").src=p.u;$("cr").textContent=`Angle ${shown%cur.imgs.length+1}/${cur.imgs.length} · Wikimedia Commons ${p.a}`;}
+async function next(){
+ if(round>=R){$("opts").innerHTML="";$("map").style.display="none";$("img").style.display=$("more").style.display="none";$("msg").innerHTML=`<h2>Final score: ${score} / ${R*100}</h2><button onclick="location.reload()">Play again</button>`;return}
+ round++;locked=false;pts=100;shown=0;$("msg").textContent="Loading…";
+ let m,imgs;
+ const el=CUR?M.filter(x=>(WL[x]||[]).length>=2):M;
+ if(!el.length){CUR=false;saveBL();alert("Approve at least 2 photos of a mountain first.");}
+ let c=(CUR?el:M).filter(x=>!used.has(x));
+ if(!c.length){used.clear();c=[...(CUR?el:M)]}
+ for(;;){if(!c.length){$("msg").textContent="No photos available (offline?)";return}
+  const k=Math.random()*c.length|0;m=c[k];imgs=CUR?[...WL[m]]:await load(m);if(imgs.length>=2)break;c.splice(k,1)}
+ used.add(m);
+ cur={m,imgs:shuf(imgs)};
+ const o=shuf([m,...shuf(M.filter(x=>x!==m)).slice(0,3)]);
+ $("opts").innerHTML="";
+ if(PIN){$("map").style.display="block";initMap();lg.clearLayers();pinM=null;map.setView([46.5,11.95],9);
+  const b=document.createElement("button");b.id="cf";b.textContent="📍 Confirm pin";b.style.flex="1 1 100%";b.disabled=true;b.onclick=cfm;$("opts").appendChild(b)}
+ else{$("map").style.display="none";o.forEach(n=>{const b=document.createElement("button");b.textContent=n;b.onclick=()=>guess(b,n);$("opts").appendChild(b)})}
+ $("msg").textContent="";$("st").textContent=`Round ${round}/${R} · Score ${score}`;show();
+}
+function guess(b,n){if(locked)return;locked=true;
+ if(n===cur.m){b.classList.add("ok");score+=pts;$("msg").textContent=`✅ Correct! +${pts}`}
+ else{b.classList.add("bad");[...$("opts").children].find(x=>x.textContent===cur.m).classList.add("ok");$("msg").textContent=`❌ It was ${cur.m}`}
+ $("st").textContent=`Round ${round}/${R} · Score ${score}`;
+ const nb=document.createElement("button");nb.textContent="Next ▶";nb.style.flex="1 1 100%";nb.onclick=next;$("opts").appendChild(nb);
+}
+$("more").onclick=()=>{if(locked)return;shown++;pts=Math.max(0,pts-25);show()};
+$("rep").onclick=()=>{
+ const u=cur.imgs[shown%cur.imgs.length].u;BL.add(u);if(WL[cur.m])WL[cur.m]=WL[cur.m].filter(p=>p.u!==u);saveBL();
+ cur.imgs=cur.imgs.filter(p=>p.u!==u);pool[cur.m]=(pool[cur.m]||[]).filter(p=>p.u!==u);
+ if(cur.imgs.length<2){round--;next()}else show();
+};
+$("ok").onclick=()=>{const p=cur.imgs[shown%cur.imgs.length];WL[cur.m]=WL[cur.m]||[];
+ if(!WL[cur.m].some(x=>x.u===p.u)){WL[cur.m].push(p);saveBL();$("cr").textContent="✅ Approved! "+$("cr").textContent}};
+$("mode").onclick=()=>{CUR=!CUR;saveBL();restart()};
+$("gm").onclick=()=>{PIN=!PIN;saveBL();restart()};
+$("tg").onclick=()=>{CB=!CB;try{localStorage.setItem("cb",CB?"1":"0")}catch(e){}saveBL()};
+$("exp").onclick=()=>{const a=document.createElement("a");a.href=URL.createObjectURL(new Blob([JSON.stringify({bl:[...BL],wl:WL},null,1)],{type:"application/json"}));a.download="blacklist.json";a.click()};
+$("imp").onclick=()=>$("fi").click();
+$("fi").onchange=async e=>{try{const d=JSON.parse(await e.target.files[0].text());(Array.isArray(d)?d:d.bl||[]).forEach(x=>BL.add(x));
+ for(const m in d.wl||{}){WL[m]=WL[m]||[];d.wl[m].forEach(p=>{if(!WL[m].some(x=>x.u===p.u))WL[m].push(p)})}saveBL();alert("Imported")}catch(x){alert("Invalid file")}};
+saveBL();next();
+</script></body></html>

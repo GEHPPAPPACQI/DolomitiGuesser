@@ -1,0 +1,1710 @@
+{
+ "bl": [
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Dolomiti_-_Cadini_di_Misurina_und_Sextener_Dolomiten_mit_Drei_Zinnen_%28Tre_Cime_di_Lavaredo%29%2C_Cristallo-Piz_Popena-Massif%2C_Val_d%27Ansiei%2C_Sorapiss_und_Gruppo_della_Marmarole_-_Aerial_view_of_the_Dolomites_2_%28cropped%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Wide_view_from_Monte_Specie%2C_Trentino-Alto_Adige%2C_Italy%2C_2025_October.jpg/1280px-Wide_view_from_Monte_Specie%2C_Trentino-Alto_Adige%2C_Italy%2C_2025_October.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Dolomiti_-_Monte_Crissin%2C_Auronzo_di_Cadore%2C_Sextener_Dolomiten%2C_Antelao_und_Sorapiss%2C_Civetta%2C_Monte_Pelmo_und_Croda_da_Lago%2C_Kronplatz_im_Norden_-_Aerial_view_of_the_Dolomites_2_%28cropped%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Aerial_view_of_the_Dolomites_2.jpg/1280px-Aerial_view_of_the_Dolomites_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Dolomiti_Drei_Zinnen_-_Tre_Cime_di_Lavaredo%2C_Cadini_di_Misurina%2C_Katzenleitenkopf%2C_Monte_Piano-Piana%2C_trail_Pionierweg%2C_H%C3%B6hlensteintal%2C_Gipfel_der_Geierwand%2C_Monte_Popena_-_Wide_view_from_Monte_Specie%2C_2025_October_%28cropped%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Pale_San_Martino.jpg/1280px-Pale_San_Martino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Merlet3.jpg/1280px-Merlet3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Dolomites_aerial_2026.jpg/1280px-Dolomites_aerial_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Dolomiti_3_Parco_Naturale_Paneveggio_Pale_di_San_Martino_ghiacciaio_della_Fradusta.jpg/1280px-Dolomiti_3_Parco_Naturale_Paneveggio_Pale_di_San_Martino_ghiacciaio_della_Fradusta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Sarah_Chang_performing_outdoor.jpg/1280px-Sarah_Chang_performing_outdoor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/San_Martino_di_Castrozza_banner.jpg/1280px-San_Martino_di_Castrozza_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://upload.wikimedia.org/wikipedia/commons/9/9d/Sarah_Chang_before_performing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/I-PBOE_Piazzola_San_Martino.jpg/1280px-I-PBOE_Piazzola_San_Martino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Val_Canali_%28113657719%29.jpeg/1280px-Val_Canali_%28113657719%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Wv_Primiero_banner.jpeg/1280px-Wv_Primiero_banner.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Monte_Pelmo%2C_settembre_2012.jpg/1280px-Monte_Pelmo%2C_settembre_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Dolomiti_di_Zoldo_da_bivacco_Bontadini.JPG/1280px-Dolomiti_di_Zoldo_da_bivacco_Bontadini.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Auf_dem_Ballband%2C_2015-10-31.jpg/1280px-Auf_dem_Ballband%2C_2015-10-31.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Dolomiti_dalla_val_Badia_-_panoramio.jpg/1280px-Dolomiti_dalla_val_Badia_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Winter_sunset_on_Monte_Pelmo%2C_San_Vito_di_Cadore_-_Dolomiti%2C_Italy.jpg/1280px-Winter_sunset_on_Monte_Pelmo%2C_San_Vito_di_Cadore_-_Dolomiti%2C_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Dinosaur_tracks_on_Monte_Pelmo.jpg/1280px-Dinosaur_tracks_on_Monte_Pelmo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Monte_Penna%2C_2196_m.jpg/1280px-Monte_Penna%2C_2196_m.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://upload.wikimedia.org/wikipedia/commons/e/e2/AntelaoLaste.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "https://upload.wikimedia.org/wikipedia/commons/4/45/AntelaoTOP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Monte_Antelao_-_San_Vito_di_Cadore%2C_Dolomiti%2C_Italy.jpg/1280px-Monte_Antelao_-_San_Vito_di_Cadore%2C_Dolomiti%2C_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Monte_Antelao_2.jpg/1280px-Monte_Antelao_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Monte_Antelao_5.jpg/1280px-Monte_Antelao_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Laston_Arboi_Antelao.JPG/1280px-Laston_Arboi_Antelao.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Sun_rises_behind_Monte_Antelao_-_San_Vito_di_Cadore%2C_Dolomiti%2C_Italy.jpg/1280px-Sun_rises_behind_Monte_Antelao_-_San_Vito_di_Cadore%2C_Dolomiti%2C_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Antelao_da_San_Vito.jpg/1280px-Antelao_da_San_Vito.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://upload.wikimedia.org/wikipedia/commons/8/8e/Heilmann_Monte_Cristallo_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Gezicht_op_de_Monte_Cristallo_te_Veneto_TIROL_Landro_mit_Monte_Cristallo._%28titel_op_object%29%2C_RP-F-F07103.jpg/1280px-Gezicht_op_de_Monte_Cristallo_te_Veneto_TIROL_Landro_mit_Monte_Cristallo._%28titel_op_object%29%2C_RP-F-F07103.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://upload.wikimedia.org/wikipedia/commons/5/5a/Compton%2C_1918_pres%2C_Monte_Cristallo_in_den_Dolomiten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Monte_Cristallo_3.jpg/1280px-Monte_Cristallo_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/I_segreti_delle_Dolomiti.jpg/1280px-I_segreti_delle_Dolomiti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Dolomiti_Panorama_-_Tofana_di_Rozes_-_Cortina_d%27Ampezzo_-_mountain_Col_Ros%C3%A0_-_Monte_Cristallo_group_with_Piz_Popeno_and_Pomagagnon_-_western_peak_of_Drei_Zinnen_%28Tre_Cime_di_Lavaredo%29_-_Faloria_Cortina_d%27Ampezzo_29_%28cropped%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Dolomiti_from_Grosser_Geiger%2C_closer_zoom.jpg/1280px-Dolomiti_from_Grosser_Geiger%2C_closer_zoom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Monte_Cristallo_maggio_%2723.jpg/1280px-Monte_Cristallo_maggio_%2723.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Monte_Cristallo_%28BildID_15520751%29.jpg/1280px-Monte_Cristallo_%28BildID_15520751%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Johann_Josef_Kirchner_Monte_Cristallo_1877.jpg/1280px-Johann_Josef_Kirchner_Monte_Cristallo_1877.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Monte_Cristallo_maggio_2023.jpg/1280px-Monte_Cristallo_maggio_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://upload.wikimedia.org/wikipedia/commons/5/57/Monte_Cristallo_with_the_D%C3%BCrrensee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Cime_di_Lavaredo_%283%29.jpg/1280px-Cime_di_Lavaredo_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Tofana_di_Rozes%2C_Croda_da_Lago_e_Lastoi_di_Formin.jpg/1280px-Tofana_di_Rozes%2C_Croda_da_Lago_e_Lastoi_di_Formin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Alba_in_yenda_alle_5_torri_con_Sambo.jpg/1280px-Alba_in_yenda_alle_5_torri_con_Sambo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/CinqueTorri_Averau_20170724.jpg/1280px-CinqueTorri_Averau_20170724.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Rifugio_Lagazuoi%2C_Passo_Falzarego_BL%2C_Dolomiti%2C_Italia_by_Marco_Zaffignani.jpg/1280px-Rifugio_Lagazuoi%2C_Passo_Falzarego_BL%2C_Dolomiti%2C_Italia_by_Marco_Zaffignani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Cinque_Torri_Formin_Croda_da_Lago_Nuvolau.jpg/1280px-Cinque_Torri_Formin_Croda_da_Lago_Nuvolau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Aurora_su_Croda_da_Lago_e_Gruppo_Faloria.jpg/1280px-Aurora_su_Croda_da_Lago_e_Gruppo_Faloria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Sorapiss_und_Antelao_von_den_Cinque_Torri_Formin_Croda_da_Lago_Nuvolau_%28cropped%29.jpg/1280px-Sorapiss_und_Antelao_von_den_Cinque_Torri_Formin_Croda_da_Lago_Nuvolau_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/2014-12-08_09-15-19_10818.4_Italy_Veneto_Falcade_Gares.jpg/1280px-2014-12-08_09-15-19_10818.4_Italy_Veneto_Falcade_Gares.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Karrenfeld_3345.jpg/1280px-Karrenfeld_3345.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Passo_di_Falzarego_002.jpg/1280px-Passo_di_Falzarego_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://upload.wikimedia.org/wikipedia/commons/e/ef/Visione_da_Sud%2C_Dolomiti_di_Sesto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "https://upload.wikimedia.org/wikipedia/commons/c/c6/Cima_della_Croda_da_Lago_%288571527536%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Wv_Croda_da_Lago_formin_banner.jpg/1280px-Wv_Croda_da_Lago_formin_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Pelmo_-_Croda_da_Lago_map.jpg/1280px-Pelmo_-_Croda_da_Lago_map.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Dolomites_cablecar_view_2009.JPG/1280px-Dolomites_cablecar_view_2009.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://upload.wikimedia.org/wikipedia/commons/c/cb/Dolomiti_Lucane_%28_viste_da_Castelmezzano%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Monte_Pore_-_Megon_%28Monte_Migogn%29%2C_Migognkamm_mit_Sass_de_Roi_-_Punta_Serauta_und_Sasso_delle_Undici_%28Undicigrat%29_-_Padonkamm_%28Padon_in_Marmolada_group%29_%28cropped%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Selva_di_Cadore_-_panoramio.jpg/1280px-Selva_di_Cadore_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Discesa_lato_est_da_Cima_Bo%C3%A9_sul_Sella_Dolomiti_di_Belluno.jpg/1280px-Discesa_lato_est_da_Cima_Bo%C3%A9_sul_Sella_Dolomiti_di_Belluno.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://upload.wikimedia.org/wikipedia/commons/9/92/TN-Strada-del-Pordoi-1957-panorama-dalle-Torri-del-Sella-mt2490.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Daniele1357_Sella_Marmolada.jpg/1280px-Daniele1357_Sella_Marmolada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/ISS006-E-33504_-_View_of_Italy_-_Carnic_Alps_-_Tagliamento_-_Fiume_Fella_-_Piave_-_Antelao_%28cropped%29.jpg/1280px-ISS006-E-33504_-_View_of_Italy_-_Carnic_Alps_-_Tagliamento_-_Fiume_Fella_-_Piave_-_Antelao_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://upload.wikimedia.org/wikipedia/commons/2/2f/Dolomiti_Lucane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/After_The_Storm_%28105813087%29.jpeg/1280px-After_The_Storm_%28105813087%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Panorama_da_Cima_Grappa_verso_le_Vette_Feltrini.jpg/1280px-Panorama_da_Cima_Grappa_verso_le_Vette_Feltrini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://upload.wikimedia.org/wikipedia/commons/c/c4/Dolomiti_Lucane%2C_Basilicata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Civetta_Monte_Pore_Marmolada.jpg/1280px-Civetta_Monte_Pore_Marmolada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Pecol_-_panoramio.jpg/1280px-Pecol_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Migognkamm_mit_Megon_%28Monte_Migogn%29_und_Sass_de_Roi_-_Punta_Serauta_%28Marmolada%29_und_Sasso_delle_Undici_%28Undicigrat%29_%28cropped%29.jpg/1280px-Migognkamm_mit_Megon_%28Monte_Migogn%29_und_Sass_de_Roi_-_Punta_Serauta_%28Marmolada%29_und_Sasso_delle_Undici_%28Undicigrat%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Wv_Lago_Sorapis_banner.jpg/1280px-Wv_Lago_Sorapis_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/BL-Sorapiss-1958-Lago-di-Misurina.jpg/1280px-BL-Sorapiss-1958-Lago-di-Misurina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://upload.wikimedia.org/wikipedia/commons/4/47/Vandelli_hut.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Misurina_lake.jpg/1280px-Misurina_lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Il_sole_nel_Faloria.jpg/1280px-Il_sole_nel_Faloria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Lago_sorapiss_panoramica.JPG/1280px-Lago_sorapiss_panoramica.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Alba_su_Faloria_e_Sorapis.jpg/1280px-Alba_su_Faloria_e_Sorapis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://upload.wikimedia.org/wikipedia/commons/9/92/Piss_ru_sorapiss.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Oasi_del_buon_respiro.jpg/1280px-Oasi_del_buon_respiro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Sorapiss_3.jpg/1280px-Sorapiss_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Geislergruppe.jpg/1280px-Geislergruppe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Croce_di_vetta_-_Sass_Rigais_-_panoramio.jpg/1280px-Croce_di_vetta_-_Sass_Rigais_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Ferrata_Sass_Rigais_-_panoramio.jpg/1280px-Ferrata_Sass_Rigais_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Panorama_da_Sass._rigais_-_panoramio.jpg/1280px-Panorama_da_Sass._rigais_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Latzfonser_Kreuz_mit_Dolomiten.jpg/1280px-Latzfonser_Kreuz_mit_Dolomiten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Vertical_-_panoramio.jpg/1280px-Vertical_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Ferrata_al_Sass_Rigais_-_panoramio.jpg/1280px-Ferrata_al_Sass_Rigais_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Discesa_dal_Sass_Rigais_-_panoramio.jpg/1280px-Discesa_dal_Sass_Rigais_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/In_vetta_al_Sass_Rigais_%28m.3025%29_-_panoramio.jpg/1280px-In_vetta_al_Sass_Rigais_%28m.3025%29_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Sass_Rigais_-_Croce_di_vetta_m.3025_-_panoramio.jpg/1280px-Sass_Rigais_-_Croce_di_vetta_m.3025_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Gruppo_del_Catinaccio_-_Verso_Passo_Principe.jpg/1280px-Gruppo_del_Catinaccio_-_Verso_Passo_Principe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Gruppo_del_Catinaccio_-_Rifugio_Passo_Principe.jpg/1280px-Gruppo_del_Catinaccio_-_Rifugio_Passo_Principe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Gruppo_del_Catinaccio_10.jpg/1280px-Gruppo_del_Catinaccio_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Rosengartenspitze_N.JPG/1280px-Rosengartenspitze_N.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Gruppo_del_Catinaccio_-_Passo_di_Antermoia_13.jpg/1280px-Gruppo_del_Catinaccio_-_Passo_di_Antermoia_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Gruppo_del_Catinaccio_15.jpg/1280px-Gruppo_del_Catinaccio_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Gruppo_del_Catinaccio_-_passo_Antermoia.jpg/1280px-Gruppo_del_Catinaccio_-_passo_Antermoia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Gruppo_del_Catinaccio_-_Valle_Vajolet.jpg/1280px-Gruppo_del_Catinaccio_-_Valle_Vajolet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Gruppo_del_Catinaccio_visto_da_passo_Antermoia.jpg/1280px-Gruppo_del_Catinaccio_visto_da_passo_Antermoia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Gruppo_del_Catinaccio_-_Valli_del_Vajolet.jpg/1280px-Gruppo_del_Catinaccio_-_Valli_del_Vajolet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Gruppo_del_Catinaccio_-_Rifugio_Stella_Alpina.jpg/1280px-Gruppo_del_Catinaccio_-_Rifugio_Stella_Alpina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Catinaccio_di_Antermoia.jpg/1280px-Catinaccio_di_Antermoia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Gruppo_del_Catinaccio_da_Passo_Principe.jpg/1280px-Gruppo_del_Catinaccio_da_Passo_Principe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Gruppo_del_Catinaccio_-_Passo_Principe.jpg/1280px-Gruppo_del_Catinaccio_-_Passo_Principe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Wv_Catinaccio_banner2.JPG/1280px-Wv_Catinaccio_banner2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Fassa_Valley_%28Fassatal_-_Val_di_Fassa%29%2C_San_Giovanni_di_Fassa%2C_Moena%2C_Valle_di_San_Pellegrino%2C_Marmolada_group%2C_Punta_Vallaccia%2C_Latemar%2C_Karerpass%2C_Dolomiti_Rosengarten_%28Catinaccio%29_and_Sella_group_-_Dolomites_aerial_2026_%28cropped%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Gruppo_del_Catinaccio_02.jpg/1280px-Gruppo_del_Catinaccio_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Gruppo_del_Catinaccio_-_Passo_di_Antermoia_06.jpg/1280px-Gruppo_del_Catinaccio_-_Passo_di_Antermoia_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://upload.wikimedia.org/wikipedia/commons/8/8e/Dolomiti%2C_Tofana_di_Rozes%2C_Tofana_di_Mezzo%2C_Averau_%28Nuvolau_group%29%2C_Passo_di_Falzarego_East_side%2C_Val_Travenanzes%2C_Torre_Fanis_-_Hannover_Rom_-Luftaufnahmen-_2014_by-RaBoe_076_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "https://upload.wikimedia.org/wikipedia/commons/8/8a/Trincee2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/At_The_Top_%28175385983%29.jpeg/1280px-At_The_Top_%28175385983%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Hannover_Rom_-Luftaufnahmen-_2014_by-RaBoe_076.jpg/1280px-Hannover_Rom_-Luftaufnahmen-_2014_by-RaBoe_076.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Olimpia_delle_Tofane_ski_race_course_and_hill_Col_Drusci%C3%A8%2C_Tofana_di_Rozes%2C_Dolomiti%2C_Stadio_Olimpico_del_Ghiaccio_%28Olympic_Ice_Stadium%29%2C_September_2019_-_Faloria_Cortina_d%27Ampezzo_10_%28cropped%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Panoramica_PomedesCortina_mini.jpg/1280px-Panoramica_PomedesCortina_mini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Le_5_torri_alle_5_del_mattino.jpg/1280px-Le_5_torri_alle_5_del_mattino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://upload.wikimedia.org/wikipedia/commons/6/6b/TN-Dolomiti-1971-Passo-Falzarego-.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Tofane%2C_Fiames%2C_Pomagagnon%2C_Croda_del_Becco%2C_Cristallino.jpg/1280px-Tofane%2C_Fiames%2C_Pomagagnon%2C_Croda_del_Becco%2C_Cristallino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Pieve_di_Cadore_colle_Marmarole_%28xilografia%29.jpg/1280px-Pieve_di_Cadore_colle_Marmarole_%28xilografia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://upload.wikimedia.org/wikipedia/commons/4/41/ValOten03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Ciareido_hut_marmarole_cadore.JPG/1280px-Ciareido_hut_marmarole_cadore.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Sunrise_monfalconi_cadore.JPG/1280px-Sunrise_monfalconi_cadore.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/View_from_Monte_Specie_towards_Marmarole%2C_Trentino-Alto_Adige%2C_Italy%2C_2025_October.jpg/1280px-View_from_Monte_Specie_towards_Marmarole%2C_Trentino-Alto_Adige%2C_Italy%2C_2025_October.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://upload.wikimedia.org/wikipedia/commons/b/b4/ValOten01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/LaghettoFemenes3.jpg/1280px-LaghettoFemenes3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Pian_buoi_lozzo.JPG/1280px-Pian_buoi_lozzo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Unter_dem_Gipfel_der_Marmarole.jpg/1280px-Unter_dem_Gipfel_der_Marmarole.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Rifugio_Marmarole_Lozzo_Cadore.JPG/1280px-Rifugio_Marmarole_Lozzo_Cadore.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Marmarole1.jpg/1280px-Marmarole1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://upload.wikimedia.org/wikipedia/commons/d/df/ForcellaPiccola.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Close_view_on_Monte_Pelmo%2C_San_Vito_di_Cadore_-_Dolomiti%2C_Italy.jpg/1280px-Close_view_on_Monte_Pelmo%2C_San_Vito_di_Cadore_-_Dolomiti%2C_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://upload.wikimedia.org/wikipedia/commons/f/f9/Ai_piedi_del_Monte_Pelmo_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Borca_di_Cadore_mit_Monte_Pelmo.jpg/1280px-Borca_di_Cadore_mit_Monte_Pelmo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://upload.wikimedia.org/wikipedia/commons/1/10/Gabinio.Dolomiti_Di_S.Martino_C.-Cimon_Della_Pala._Dolomiti%2C_San_Martino_Di_Castrozza%2C_Cimon_Della_Pala_CN9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "https://upload.wikimedia.org/wikipedia/commons/9/91/Toni_Giuriolo_a_Baita_Segantini_1938.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Latemar_and_Monte_Agnello_-_Cim%C3%B2n_de_Tresca_aerial_view%2C_Predazo_in_Val_di_Fiemme_%28Fleimstal%29%2C_Moena_and_Sas_di_Mezzo_%28cropped%29.jpg/1280px-Latemar_and_Monte_Agnello_-_Cim%C3%B2n_de_Tresca_aerial_view%2C_Predazo_in_Val_di_Fiemme_%28Fleimstal%29%2C_Moena_and_Sas_di_Mezzo_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Faloria_Cortina_d%27Ampezzo_17.jpg/1280px-Faloria_Cortina_d%27Ampezzo_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Monte_Agnello_2358_m_Summit_2016-10-30.jpg/1280px-Monte_Agnello_2358_m_Summit_2016-10-30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/2014_Rosengarten-Latemar_080_Rotwandh%C3%BCtte.JPG/1280px-2014_Rosengarten-Latemar_080_Rotwandh%C3%BCtte.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/2014_Rosengarten-Latemar_251_Latemarh%C3%BCtte.JPG/1280px-2014_Rosengarten-Latemar_251_Latemarh%C3%BCtte.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/2014_Rosengarten-Latemar_341_Grasleitenh%C3%BCtte_lmnr1.jpg/1280px-2014_Rosengarten-Latemar_341_Grasleitenh%C3%BCtte_lmnr1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/2014_Rosengarten-Latemar_248_Latemarh%C3%BCtte.JPG/1280px-2014_Rosengarten-Latemar_248_Latemarh%C3%BCtte.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/2014_Rosengarten-Latemar_342_Grasleitenh%C3%BCtte_ji.jpg/1280px-2014_Rosengarten-Latemar_342_Grasleitenh%C3%BCtte_ji.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Latemar%2C_Val_di_Fiemme_-_Fleimstal%2C_Predazzo%2C_Moena_and_the_Fassa_Valley%2C_Dolomites_aerial_view.jpg/1280px-Latemar%2C_Val_di_Fiemme_-_Fleimstal%2C_Predazzo%2C_Moena_and_the_Fassa_Valley%2C_Dolomites_aerial_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Pelenzana.JPG/1280px-Pelenzana.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Dolomitenpanorama.jpg/1280px-Dolomitenpanorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/2014_Rosengarten-Latemar_081_Rotwandh%C3%BCtte.JPG/1280px-2014_Rosengarten-Latemar_081_Rotwandh%C3%BCtte.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/2014_Rosengarten-Latemar_085_Rotwandh%C3%BCtte.JPG/1280px-2014_Rosengarten-Latemar_085_Rotwandh%C3%BCtte.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Latemar_%28cropped%29.jpg/1280px-Latemar_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Rifugio_Torre_di_Pisa_%28Latemar%29.jpg/1280px-Rifugio_Torre_di_Pisa_%28Latemar%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Latemar_torre_di_Pisa.jpg/1280px-Latemar_torre_di_Pisa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/2014_Rosengarten-Latemar_250_Latemarh%C3%BCtte.JPG/1280px-2014_Rosengarten-Latemar_250_Latemarh%C3%BCtte.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Fassa_Valley_%28Fassatal_-_Val_di_Fassa%29_aerial_view%2C_San_Giovanni_di_Fassa%2C_Moena%2C_Dolomiti_Rosengarten%2C_Latemar%2C_Rosengarten_and_Marmolata_%28cropped%29.jpg/1280px-Fassa_Valley_%28Fassatal_-_Val_di_Fassa%29_aerial_view%2C_San_Giovanni_di_Fassa%2C_Moena%2C_Dolomiti_Rosengarten%2C_Latemar%2C_Rosengarten_and_Marmolata_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Langkofel_-_Puez_-_Sella_-_02.jpg/1280px-Langkofel_-_Puez_-_Sella_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Saslonch_da_Plan_de_Saslonch_Gherd%C3%ABina.jpg/1280px-Saslonch_da_Plan_de_Saslonch_Gherd%C3%ABina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Langkofel_seen_from_Sass_Pordoi_01.jpg/1280px-Langkofel_seen_from_Sass_Pordoi_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Maalik_Rinne_Langkofel_Eck_2013.jpg/1280px-Maalik_Rinne_Langkofel_Eck_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Langkofel_-_Puez_-_Sella_-_01.jpg/1280px-Langkofel_-_Puez_-_Sella_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Langkofel_-_Summit.jpg/1280px-Langkofel_-_Summit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Saslonch_Sella_Pic_Seceda_inviern.jpg/1280px-Saslonch_Sella_Pic_Seceda_inviern.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Mont_de_S%C3%ABuc_Saslonch_y_l%C3%ABns_de_leresc_pudej%C3%A9.jpg/1280px-Mont_de_S%C3%ABuc_Saslonch_y_l%C3%ABns_de_leresc_pudej%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Langkofel_from_Plan_de_Gralba_under_snow_2012.jpg/1280px-Langkofel_from_Plan_de_Gralba_under_snow_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Arcobaleno_sul_Sassolungo_%28Pace_sulle_Dolomiti%29.jpg/1280px-Arcobaleno_sul_Sassolungo_%28Pace_sulle_Dolomiti%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Lech_de_Cresp%C3%ABina_Saslonch_Cir_Chedul_Odles_Parc_Naturel_Puez.jpg/1280px-Lech_de_Cresp%C3%ABina_Saslonch_Cir_Chedul_Odles_Parc_Naturel_Puez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Pic_Odles_Stevia_Daun%C3%ABi_S%C3%ABlva_te_Gherd%C3%ABina_da_Mont_de_S%C3%ABura_dinviern.jpg/1280px-Pic_Odles_Stevia_Daun%C3%ABi_S%C3%ABlva_te_Gherd%C3%ABina_da_Mont_de_S%C3%ABura_dinviern.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Ncisles_y_Odles_uduidal_Col_Raiser_Gherd%C3%ABina.jpg/1280px-Ncisles_y_Odles_uduidal_Col_Raiser_Gherd%C3%ABina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Pitla_Fermeda_Gran_Fermeda_da_Col_Raiser.jpg/1280px-Pitla_Fermeda_Gran_Fermeda_da_Col_Raiser.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Juac_y_Odles.jpg/1280px-Juac_y_Odles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Karte_des_Schlern_und_der_Rosengartengruppe_1-25_000_-_bearbeitet_von_S._Simon_-_btv1b8444687d.jpg/1280px-Karte_des_Schlern_und_der_Rosengartengruppe_1-25_000_-_bearbeitet_von_S._Simon_-_btv1b8444687d.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Karte_des_Schlern_und_der_Rosengartengruppe.jpg/1280px-Karte_des_Schlern_und_der_Rosengartengruppe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Blick_vom_Gitsch.jpg/1280px-Blick_vom_Gitsch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://upload.wikimedia.org/wikipedia/commons/a/a8/Triassic_stratigraphy_in_the_Italian_Dolomites%2C_dating_of_the_Carnian_Pluvial_Event_and_the_dinosaur_diversification_event.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Eduard_Peithner_von_Lichtenfels_-_Die_Schlerngruppe_bei_Bozen_-_5834_-_%C3%96sterreichische_Galerie_Belvedere.jpg/1280px-Eduard_Peithner_von_Lichtenfels_-_Die_Schlerngruppe_bei_Bozen_-_5834_-_%C3%96sterreichische_Galerie_Belvedere.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Massiccio_dello_Sciliar.jpg/1280px-Massiccio_dello_Sciliar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/20-06-2020_-_Alps_panorama.jpg/1280px-20-06-2020_-_Alps_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/SchlernPano.jpg/1280px-SchlernPano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/South_Tyrolean_Option_Agreement_Nazi_propaganda_poster_1939-40.jpg/1280px-South_Tyrolean_Option_Agreement_Nazi_propaganda_poster_1939-40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Karte_der_Rosengartengruppe.jpg/1280px-Karte_der_Rosengartengruppe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Faloria_Cortina_d%27Ampezzo_29.jpg/1280px-Faloria_Cortina_d%27Ampezzo_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/The_Great_Dolomites_Road_SS48_and_Tofane.jpg/1280px-The_Great_Dolomites_Road_SS48_and_Tofane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Le_5_torri_dal_rifugio_Nuvolau.jpg/1280px-Le_5_torri_dal_rifugio_Nuvolau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Cortina_d%27Ampezzo%2C_Olimpia_delle_Tofane_ski_race_course%2C_Ra_Pegna_and_Ra_Bujela%2C_hill_Col_Drusci%C3%A8%2C_Stadio_Olimpico_del_Ghiaccio_%28Olympic_Ice_Stadium%29%2C_September_2019_-_Faloria_Cortina_d%27Ampezzo_10_%28cropped%29_%28cropped%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Ferrata_Menighel_-_panoramio.jpg/1280px-Ferrata_Menighel_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Marmolada_%2B_Sellaronda_tour_6.jpg/1280px-Marmolada_%2B_Sellaronda_tour_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Marmolada_%2B_Sellaronda_tour_3.jpg/1280px-Marmolada_%2B_Sellaronda_tour_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Marmolada_%2B_Sellaronda_tour_41.jpg/1280px-Marmolada_%2B_Sellaronda_tour_41.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Marmolada_%2B_Sellaronda_tour_45a.jpg/1280px-Marmolada_%2B_Sellaronda_tour_45a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Marmolada_%2B_Sellaronda_tour_46.jpg/1280px-Marmolada_%2B_Sellaronda_tour_46.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Marmolada_%2B_Sellaronda_tour_47.jpg/1280px-Marmolada_%2B_Sellaronda_tour_47.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Marmolada_nelle_Dolomiti_%E2%80%93_CN.jpg/1280px-Marmolada_nelle_Dolomiti_%E2%80%93_CN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Marmolada_20170727_115353.jpg/1280px-Marmolada_20170727_115353.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Marmolada_%2B_Sellaronda_tour_21.jpg/1280px-Marmolada_%2B_Sellaronda_tour_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Marmolada_seen_from_Sass_Pordoi.jpg/1280px-Marmolada_seen_from_Sass_Pordoi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Aerial_image_of_the_south_face_of_Marmolada_%28view_from_the_southeast%29.jpg/1280px-Aerial_image_of_the_south_face_of_Marmolada_%28view_from_the_southeast%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/View_from_Sass_Pordoi_02.jpg/1280px-View_from_Sass_Pordoi_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Marmolada_20170727_154852.jpg/1280px-Marmolada_20170727_154852.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Marmolada_%2B_Sellaronda_tour_36.jpg/1280px-Marmolada_%2B_Sellaronda_tour_36.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Marmolada_%2B_Sellaronda_tour_38.jpg/1280px-Marmolada_%2B_Sellaronda_tour_38.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Shepherd_dog_watching_sheep_grazing_on_Marmolada%2C_Dolomites%2C_Italy.jpg/1280px-Shepherd_dog_watching_sheep_grazing_on_Marmolada%2C_Dolomites%2C_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Marmolada_%2B_Sellaronda_tour_35.jpg/1280px-Marmolada_%2B_Sellaronda_tour_35.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Marmolada_%2B_Sellaronda_tour_39.jpg/1280px-Marmolada_%2B_Sellaronda_tour_39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/View_from_Sass_Pordoi_03.jpg/1280px-View_from_Sass_Pordoi_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Marmolada_%2B_Sellaronda_tour_1.jpg/1280px-Marmolada_%2B_Sellaronda_tour_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Pic_Odles_Stevia_Daun%C3%ABi_S%C3%ABlva_Ciandepin%C3%ABi_te_Gherd%C3%ABina_da_Mont_de_S%C3%ABura_dinviern.jpg/1280px-Pic_Odles_Stevia_Daun%C3%ABi_S%C3%ABlva_Ciandepin%C3%ABi_te_Gherd%C3%ABina_da_Mont_de_S%C3%ABura_dinviern.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Ncisles_Roa_blancia_Gherdeina.jpg/1280px-Ncisles_Roa_blancia_Gherdeina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Sangon_utia_da_mont_sun_Ciaulonch_cun_Odles_y_stevia.jpg/1280px-Sangon_utia_da_mont_sun_Ciaulonch_cun_Odles_y_stevia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Troier_utia_sun_Mastl%C3%A9_cun_Odles_y_Muntijela.jpg/1280px-Troier_utia_sun_Mastl%C3%A9_cun_Odles_y_Muntijela.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Odles_pitla_y_gran_Fermeda_Gherd%C3%ABina.jpg/1280px-Odles_pitla_y_gran_Fermeda_Gherd%C3%ABina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Pic_Odles_Stevia_Daun%C3%ABi_S%C3%ABlva_te_Gherd%C3%ABina.jpg/1280px-Pic_Odles_Stevia_Daun%C3%ABi_S%C3%ABlva_te_Gherd%C3%ABina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Sec%C3%ABda_y_Odles_dal_n%C3%ABide_dla_pista_di_schi_de_Resciesa.jpg/1280px-Sec%C3%ABda_y_Odles_dal_n%C3%ABide_dla_pista_di_schi_de_Resciesa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Ampezzotal_D%C3%BCrrensee_u_d_Ampezzostrasse.jpg/1280px-Ampezzotal_D%C3%BCrrensee_u_d_Ampezzostrasse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Cristallo_massif_from_the_sky.jpg/1280px-Cristallo_massif_from_the_sky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Piz_Popena_%28Monte_Cristallo_group%29%2C_Dry_tree_2_%28cropped%29.jpg/1280px-Piz_Popena_%28Monte_Cristallo_group%29%2C_Dry_tree_2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Mount_Cristallo_from_Prato_di_Piazza.jpg/1280px-Mount_Cristallo_from_Prato_di_Piazza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Cristallo_and_trail.jpg/1280px-Cristallo_and_trail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Mont_Cristallo-XIXsi%C3%A8cle-25.jpg/1280px-Mont_Cristallo-XIXsi%C3%A8cle-25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Monte_Cristallo_102_2296.jpg/1280px-Monte_Cristallo_102_2296.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Rovine_sul_sentiero_del_Fronte_10.jpg/1280px-Rovine_sul_sentiero_del_Fronte_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Rifugio_Lagazuoi_%28_Lagazoi%29_2752m_-_View_from_Falzarego%2C_Civetta%2C_Pelmo...._-_panoramio.jpg/1280px-Rifugio_Lagazuoi_%28_Lagazoi%29_2752m_-_View_from_Falzarego%2C_Civetta%2C_Pelmo...._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://upload.wikimedia.org/wikipedia/commons/9/9e/Lagazoui_-_RIFUGIO_NUVOLAU_-_panoramio_-_Guba_Zoky_Rabko.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Rovine_sul_sentiero_del_Fronte_02.jpg/1280px-Rovine_sul_sentiero_del_Fronte_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://upload.wikimedia.org/wikipedia/commons/5/54/Rifugio_Lagazuoi_%28_Lagazoi%29_2752m_View_from_Cortina_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/DSCF0492-1web.jpg/1280px-DSCF0492-1web.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Minuartia_sedoides_Lagazuoi_01.jpg/1280px-Minuartia_sedoides_Lagazuoi_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://upload.wikimedia.org/wikipedia/commons/7/75/Lagazuoi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Panorama_dal_rifugio_Lagazuoi.jpg/1280px-Panorama_dal_rifugio_Lagazuoi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Funivia_del_Lagazuoi_%28passo_Falzarego%29.jpg/1280px-Funivia_del_Lagazuoi_%28passo_Falzarego%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Croda_Negra_Falzarego_Lagazuoi_Forcella_Averau.jpg/1280px-Croda_Negra_Falzarego_Lagazuoi_Forcella_Averau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://upload.wikimedia.org/wikipedia/commons/2/23/Lagazoui_-_View_Marmolada_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "https://upload.wikimedia.org/wikipedia/commons/d/d2/Vista_dal_rifugio_Lagazuoi_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Minuartia_sedoides_Lagazuoi_04.jpg/1280px-Minuartia_sedoides_Lagazuoi_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://upload.wikimedia.org/wikipedia/commons/e/ea/Rifugio_Lagazuoi_07-2010_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Minuartia_sedoides_Lagazuoi_03.jpg/1280px-Minuartia_sedoides_Lagazuoi_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Panorama_delle_Dolomiti_da_Lagazuoi_-_panoramio.jpg/1280px-Panorama_delle_Dolomiti_da_Lagazuoi_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://upload.wikimedia.org/wikipedia/commons/3/36/Lagazoui_-_RIFUGIO_NUVOLAU_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Rovine_sul_sentiero_del_Fronte_05.jpg/1280px-Rovine_sul_sentiero_del_Fronte_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/2014-12-08_09-15-25_10835.8_Italy_Veneto_Falcade_Gares.jpg/1280px-2014-12-08_09-15-25_10835.8_Italy_Veneto_Falcade_Gares.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Verso_il_rifugio_Croda_da_Lago.jpg/1280px-Verso_il_rifugio_Croda_da_Lago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Fassa_Valley_%28Fassatal_-_Val_di_Fassa%29%2C_San_Giovanni_di_Fassa%2C_Moena%2C_Valle_di_San_Pellegrino%2C_Marmolada_group%2C_Punta_Vallaccia%2C_Catena_dell%27Auta%2C_Falcade%2C_Passo_San_Pellegrino%2C_Catena_di_Bocche_-_Dolomites_aerial_2026_%28cropped%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Mastle_cun_Odles_Gherd%C3%ABina.jpg/1280px-Mastle_cun_Odles_Gherd%C3%ABina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Ncisles_Val_Mont_dal_Ega_Gherdeina.jpg/1280px-Ncisles_Val_Mont_dal_Ega_Gherdeina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Tubla_sun_Juac_cun_Odles_y_Stevia_Gherd%C3%ABina.jpg/1280px-Tubla_sun_Juac_cun_Odles_y_Stevia_Gherd%C3%ABina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Villnoess_Valley_and_Odle_Group_from_Seceda%2C_South_Tyrol_-_panorama.jpg/1280px-Villnoess_Valley_and_Odle_Group_from_Seceda%2C_South_Tyrol_-_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Odles_hutia_cun_la_Fermedes.jpg/1280px-Odles_hutia_cun_la_Fermedes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Parco_Nazionale_Puez-Odle_-_panoramio.jpg/1280px-Parco_Nazionale_Puez-Odle_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+ ],
+ "wl": {
+  "Cadini di Misurina": [
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/6/65/Parco_Naturale_Regionale_delle_dolomiti_d%27Ampezzo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "a": "CONGEDO.MM"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Le_solite_facce_-_Flickr_-_Alessio_Battistella.jpg/1280px-Le_solite_facce_-_Flickr_-_Alessio_Battistella.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Alessio Battistella from Pordenone, Italia"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Cime_di_Lavaredo_%284%29.jpg/1280px-Cime_di_Lavaredo_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Bruno Spatuzzi"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Faloria_Cortina_d%27Ampezzo_29.jpg/1280px-Faloria_Cortina_d%27Ampezzo_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "kallerna"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/6/61/Cappella_di_guerra%2C_Cadini_di_Misurina_-_Dolomiti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "a": "Touring Club Italiano"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Oasi_del_buon_respiro.jpg/1280px-Oasi_del_buon_respiro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Spatuzzi Bruno"
+   }
+  ],
+  "Pale di San Martino": [
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Pale_Di_San_Martino_%2891101939%29.jpeg/1280px-Pale_Di_San_Martino_%2891101939%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\nLuca Casartelli"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Pale_Di_San_Martino_%2888873377%29.jpeg/1280px-Pale_Di_San_Martino_%2888873377%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\nLuca Casartelli"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Monte_Mulaz_sw.jpg/1280px-Monte_Mulaz_sw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Carlo Albino Turra"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Pale_San_Martino_3.jpg/1280px-Pale_San_Martino_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Karl southernpeople@gmail.com"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/DolomitiPaneveggio.jpg/1280px-DolomitiPaneveggio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Acquario51"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/DSC_1649_Dolomiti.jpg/1280px-DSC_1649_Dolomiti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Marti debi"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Dolomiti_4_Parco_Naturale_Paneveggio_Pale_di_San_Martino_lago_di_Calaita_e_Cimon_della_Pala.jpg/1280px-Dolomiti_4_Parco_Naturale_Paneveggio_Pale_di_San_Martino_lago_di_Calaita_e_Cimon_della_Pala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Carlo Albino Turra"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Enrosadira_in_ottobre_sulle_pale.jpg/1280px-Enrosadira_in_ottobre_sulle_pale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Marco Galiani"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Baita_Segantini_%28238530099%29.jpeg/1280px-Baita_Segantini_%28238530099%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\nFabrizio Lunardi"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Dolomiti_%2888873375%29.jpeg/1280px-Dolomiti_%2888873375%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\nLuca Casartelli"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/DolomitiPaneveggioBetter.jpg/1280px-DolomitiPaneveggioBetter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Acquario51"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Pale_Di_San_Martino_%2894393539%29.jpeg/1280px-Pale_Di_San_Martino_%2894393539%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\nLuca Casartelli"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Dolomiti_5_Parco_Naturale_Paneveggio_Pale_di_San_Martino_-_skyline_in_Valcanali.jpg/1280px-Dolomiti_5_Parco_Naturale_Paneveggio_Pale_di_San_Martino_-_skyline_in_Valcanali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Carlo Albino Turra"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Dolomiti_Parco_Naturale_Paneveggio_Pale_di_San_Martino_-_Cimon_della_Pala_-_Vezzana_Bureloni_e_Mulaz.jpg/1280px-Dolomiti_Parco_Naturale_Paneveggio_Pale_di_San_Martino_-_Cimon_della_Pala_-_Vezzana_Bureloni_e_Mulaz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Carlo Albino Turra"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Pale_San_Martino_2.jpg/1280px-Pale_San_Martino_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Karl southernpeople@gmail.com"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Dolomiti-_Cimerlo_and_Sass_Maor.jpg/1280px-Dolomiti-_Cimerlo_and_Sass_Maor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "David J. Mark"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/9/91/Toni_Giuriolo_a_Baita_Segantini_1938.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "a": "Linda Vignato"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Cima_Canali.jpg/1280px-Cima_Canali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Carlo Albino Turra"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/East_aspect_of_Cima_di_Lastei.jpg/1280px-East_aspect_of_Cima_di_Lastei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Luca Casartelli"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Dolomiti_2_Parco_Naturale_Paneveggio_Pale_di_San_Martino_tabi%C3%A0_in_localit%C3%A0_Polina.jpg/1280px-Dolomiti_2_Parco_Naturale_Paneveggio_Pale_di_San_Martino_tabi%C3%A0_in_localit%C3%A0_Polina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Carlo Albino Turra"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Dolomiti_6_Parco_Naturale_Paneveggio_Pale_di_San_Martino_-_Cimon_della_Pala.jpg/1280px-Dolomiti_6_Parco_Naturale_Paneveggio_Pale_di_San_Martino_-_Cimon_della_Pala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Carlo Albino Turra"
+   }
+  ],
+  "Monte Pelmo": [
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Pelmo_da_Coi.jpg/1280px-Pelmo_da_Coi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Gvf"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/6/68/Santa_Fosca_Monte_Pelmo_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "a": "Luitold"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Il_Pelmo%2C_Dolomiti%2C_Belluno%2C_Veneto%2C_Italia%2C_Patrimonio_dell%27Umanit%C3%A0_Unesco.jpg/1280px-Il_Pelmo%2C_Dolomiti%2C_Belluno%2C_Veneto%2C_Italia%2C_Patrimonio_dell%27Umanit%C3%A0_Unesco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "LuigiGuglielmi"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Monte_Pelmo.JPG/1280px-Monte_Pelmo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Luukas"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Monte-Pelmo_2883a.jpg/1280px-Monte-Pelmo_2883a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Rüdiger Kratz, St. Ingbert"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Monte_Pelmo_-_San_Vito_di_Cadore%2C_Belluno%2C_Italia_-_10_Luglio_2023_06.jpg/1280px-Monte_Pelmo_-_San_Vito_di_Cadore%2C_Belluno%2C_Italia_-_10_Luglio_2023_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Giorgio Galeotti"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/0/04/Colle_SL_Monte_Pelmo_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "a": "Luitold"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Il_monte_Pelmo_da_Villanova_di_Borca_di_Cadore.jpg/1280px-Il_monte_Pelmo_da_Villanova_di_Borca_di_Cadore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Paolo51"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Monte_Pelmo_3.jpg/1280px-Monte_Pelmo_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "kallerna"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Monte_Pelmo%2C_2012-01-22.jpg/1280px-Monte_Pelmo%2C_2012-01-22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Johndiego"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Pelmo_Dolomiti_Belluno_Veneto_Italia.jpg/1280px-Pelmo_Dolomiti_Belluno_Veneto_Italia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "LuigiGuglielmi"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Monte_Pelmo_da_val_Fiorentina_2.JPG/1280px-Monte_Pelmo_da_val_Fiorentina_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "piero tasso"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Val_Fiorentina_con_monte_Pelmo.JPG/1280px-Val_Fiorentina_con_monte_Pelmo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "piero tasso"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Staulanza_Monte_Pelmo_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "a": "Luitold"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Monte_Pelmo_2.jpg/1280px-Monte_Pelmo_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "kallerna"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Monte_Pelmo_panorama_1.jpg/1280px-Monte_Pelmo_panorama_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "kallerna"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Pelmo_%284827855744%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "a": "manuel.comis"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Staulanza_Monte_Pelmo_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "a": "Luitold"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Monte_Pelmo_-_San_Vito_di_Cadore%2C_Belluno%2C_Italia_-_10_Luglio_2023_02.jpg/1280px-Monte_Pelmo_-_San_Vito_di_Cadore%2C_Belluno%2C_Italia_-_10_Luglio_2023_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Giorgio Galeotti"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Monte_Pelmo_-_San_Vito_di_Cadore%2C_Belluno%2C_Italia_-_10_Luglio_2023_04.jpg/1280px-Monte_Pelmo_-_San_Vito_di_Cadore%2C_Belluno%2C_Italia_-_10_Luglio_2023_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Giorgio Galeotti"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Monte_Pelmo_4.jpg/1280px-Monte_Pelmo_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "kallerna"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Monte_Pelmo_e_Pelmetto_Estate_2013.JPG/1280px-Monte_Pelmo_e_Pelmetto_Estate_2013.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Jonathan.astolfi"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Pelmo_da_Palafavera.jpg/1280px-Pelmo_da_Palafavera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Mauro742"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Monte_Pelmo_3168_m%2C_2015-11-04.jpg/1280px-Monte_Pelmo_3168_m%2C_2015-11-04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "2015 Michael 2015"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Monte_Pelmo_1.jpg/1280px-Monte_Pelmo_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "kallerna"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Monte_Pelmo_-_San_Vito_di_Cadore%2C_Belluno%2C_Italia_-_10_Luglio_2023_08.jpg/1280px-Monte_Pelmo_-_San_Vito_di_Cadore%2C_Belluno%2C_Italia_-_10_Luglio_2023_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Giorgio Galeotti"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Monte_Pelmo_-_San_Vito_di_Cadore%2C_Belluno%2C_Italia_-_10_Luglio_2023_03.jpg/1280px-Monte_Pelmo_-_San_Vito_di_Cadore%2C_Belluno%2C_Italia_-_10_Luglio_2023_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Giorgio Galeotti"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/PelmoSanVitoDiCadore.JPG/1280px-PelmoSanVitoDiCadore.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Verozmp"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Monte_Pelmo_-_San_Vito_di_Cadore%2C_Belluno%2C_Italia_-_10_Luglio_2023_07.jpg/1280px-Monte_Pelmo_-_San_Vito_di_Cadore%2C_Belluno%2C_Italia_-_10_Luglio_2023_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Giorgio Galeotti"
+   }
+  ],
+  "Antelao": [
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Antelao_in_gennaio.jpg/1280px-Antelao_in_gennaio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Pierluigimiglioli"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Antelao_e_Becco_di_Mezzod%C3%AC_%288570434183%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "a": "chripell from Friuli, Italy"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Monte_Antelao.JPG/1280px-Monte_Antelao.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Ximonic, Simo Räsänen"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Dolomiten_Antelao-Boitetal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "a": ""
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Monte_Antelao_8.jpg/1280px-Monte_Antelao_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "kallerna"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Antelao2.jpg/1280px-Antelao2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Verozmp"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Antelao.jpg/1280px-Antelao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": ""
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Antelao_from_chiggiato_dolomites.JPG/1280px-Antelao_from_chiggiato_dolomites.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Kufoleto"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Antelao_%284827855546%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "a": "manuel.comis"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Monte_Antelao_7.jpg/1280px-Monte_Antelao_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "kallerna"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Monte_Antelao_6.jpg/1280px-Monte_Antelao_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "kallerna"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Antelao_visto_da_Lorenzago.JPG/1280px-Antelao_visto_da_Lorenzago.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Lunardo"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Monte_Antelao_1.jpg/1280px-Monte_Antelao_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "kallerna"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Antelao_20150716.jpg/1280px-Antelao_20150716.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Pierluigimiglioli"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Antelao1.jpg/1280px-Antelao1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Verozmp"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Antelao_Peaio1.jpg/1280px-Antelao_Peaio1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Verozmp"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Laston_Arboi_Antelao_2.JPG/1280px-Laston_Arboi_Antelao_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Antonio De Lorenzo"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Antelao_Lago_di_Mosigo.jpg/1280px-Antelao_Lago_di_Mosigo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Labaracca"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Monte_Antelao_4.jpg/1280px-Monte_Antelao_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "kallerna"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Antelao_dal_S._Marco.JPG/1280px-Antelao_dal_S._Marco.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Pierluigimiglioli"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Antelao_PLM.JPG/1280px-Antelao_PLM.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Pierluigimiglioli"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Monte_Antelao%2C_3264_m_und_San_Vito_di_Cadore.jpg/1280px-Monte_Antelao%2C_3264_m_und_San_Vito_di_Cadore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "2015 Michael 2015"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Monte_Antelao_-_San_Vito_di_Cadore%2C_Belluno%2C_Italia_-_10_Luglio_2023.jpg/1280px-Monte_Antelao_-_San_Vito_di_Cadore%2C_Belluno%2C_Italia_-_10_Luglio_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Giorgio Galeotti"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Monte_Antelao_3.jpg/1280px-Monte_Antelao_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "kallerna"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Antelao-Sorapis01.jpg/1280px-Antelao-Sorapis01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Verozmp"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Antelao_2.JPG/1280px-Antelao_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Pierluigimiglioli"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Antelao_3.JPG/1280px-Antelao_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Antonio De Lorenzo"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Antelao_invernale_Lorenzago.JPG/1280px-Antelao_invernale_Lorenzago.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Lunardo"
+   }
+  ],
+  "Cristallo": [
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/J40_095_Cristallogruppe.jpg/1280px-J40_095_Cristallogruppe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Falk2"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Cristallo_group_from_Prato_Piazza%2C_Val_Pusteria%2C_Trentino-Alto_Adige%2C_Italy%2C_2025_October.jpg/1280px-Cristallo_group_from_Prato_Piazza%2C_Val_Pusteria%2C_Trentino-Alto_Adige%2C_Italy%2C_2025_October.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Ximonic (Simo Räsänen)"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Tramonto_sul_cristallo.jpg/1280px-Tramonto_sul_cristallo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "MaiDireLollo"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Monte_Cristallo_Lago_di_Sorapis_hike.jpg/1280px-Monte_Cristallo_Lago_di_Sorapis_hike.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "kallerna"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/J40_085_Monte_Cristallo.jpg/1280px-J40_085_Monte_Cristallo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Falk2"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Monte_Cristallo_102_2296.jpg/1280px-Monte_Cristallo_102_2296.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Zavijavah"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Monte_Cristallo_102_2298.jpg/1280px-Monte_Cristallo_102_2298.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Zavijavah"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Monte-Cristallo_Forcella-Staunies_3239a.jpg/1280px-Monte-Cristallo_Forcella-Staunies_3239a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Rüdiger Kratz, St. Ingbert"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Rifugio_Lorenzi_-_Cristallo_-_panoramio.jpg/1280px-Rifugio_Lorenzi_-_Cristallo_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Francesco Zanardini"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Monte_Cristallo_dal_lago_di_Landro_%28cropped%29.jpg/1280px-Monte_Cristallo_dal_lago_di_Landro_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Metallaro1980.\n\nOriginal uploader was Metallaro1980 at it.wikipedia"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Rifugio_Venezia%2C_1946_m_und_Cristallogruppe.jpg/1280px-Rifugio_Venezia%2C_1946_m_und_Cristallogruppe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "2015 Michael 2015"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Faloria_Cortina_d%27Ampezzo_12.jpg/1280px-Faloria_Cortina_d%27Ampezzo_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "kallerna"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/J40_099_Cristallogruppe%2C_Val_Fonda.jpg/1280px-J40_099_Cristallogruppe%2C_Val_Fonda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Falk2"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/J40_109_Cristallogruppe.jpg/1280px-J40_109_Cristallogruppe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Falk2"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/4/48/Pl%C3%A4tzwiese_mit_Monte_Cristallo._%28BildID_15575802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "a": "K.u.k. Kriegspressequartier, Lichtbildstelle - Wien"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Cortina_Pasqua_2007_-_Cristallo.jpg/1280px-Cortina_Pasqua_2007_-_Cristallo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "MaiDireLollo"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/J40_089_Werk_Pl%C3%A4tzwiese%2C_Monte_Cristallo.jpg/1280px-J40_089_Werk_Pl%C3%A4tzwiese%2C_Monte_Cristallo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Falk2"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Monte_Cristallo_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "a": "Milijana Pavlović"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Faloria_Cortina_d%27Ampezzo_13.jpg/1280px-Faloria_Cortina_d%27Ampezzo_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "kallerna"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/3/39/Monte_Cristallo_-_Kristallberg%2C_Dolomiti%2C_Cortina_d%27Ampezzo_-_Comune_di_Cortina_d%27Ampezzo_-_2023-09-27_15-35-37_014_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "a": "Acquario51"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Cristallo_group_over_Lago_di_Landro%2C_Trentino-Alto_Adige%2C_Italy%2C_2025_October.jpg/1280px-Cristallo_group_over_Lago_di_Landro%2C_Trentino-Alto_Adige%2C_Italy%2C_2025_October.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Ximonic (Simo Räsänen)"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/J40_093_Cristallogruppe.jpg/1280px-J40_093_Cristallogruppe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Falk2"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/J40_097_Cristallogruppe.jpg/1280px-J40_097_Cristallogruppe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Falk2"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Monte_Cristallo_102_2297.jpg/1280px-Monte_Cristallo_102_2297.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Zavijavah"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Cristallo_da_Prato_Piazza.jpg/1280px-Cristallo_da_Prato_Piazza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Gioiagas"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Monte_Cristallo_dal_lago_di_Landro.jpg/1280px-Monte_Cristallo_dal_lago_di_Landro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Metallaro1980.\n\nOriginal uploader was Metallaro1980 at it.wikipedia"
+   }
+  ],
+  "Croda da Lago": [
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Corda-da-Lago_2815b.jpg/1280px-Corda-da-Lago_2815b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Rüdiger Kratz, St. Ingbert"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Croda_da_Lago_02.jpg/1280px-Croda_da_Lago_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Clemens Stockner"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/7/79/Crodadalago0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "a": "No machine-readable author provided. Idéfix~commonswiki assumed (based on copyright claims)."
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Croda_da_Lago%2C_west_side.jpg/1280px-Croda_da_Lago%2C_west_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Robert J Heath"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Croda_da_Lago_20170725_0559.jpg/1280px-Croda_da_Lago_20170725_0559.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Ka23 13"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/5/50/Good_morning_Croda_da_Lago_%288571529804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "a": "chripell from Friuli, Italy"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Croda_da_lago_formin.jpg/1280px-Croda_da_lago_formin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Mr. Spock"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Croda_da_Lago.jpg/1280px-Croda_da_Lago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Momochi86"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Veneto_Passo_Giau_15.jpg/1280px-Veneto_Passo_Giau_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Zairon"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Cortina_Pasqua_2007_-_Croda_da_Lago.JPG/1280px-Cortina_Pasqua_2007_-_Croda_da_Lago.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "MaiDireLollo"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Croda_da_Lago_from_Passo_Giau.jpg/1280px-Croda_da_Lago_from_Passo_Giau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Varus111"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/5/55/Visione_da_Sud%2C_Dolomiti_di_Sesto%2C_periodo_invernale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "a": "Sandrin Ernesto"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Croda_da_Lago_%288571524764%29.jpg/1280px-Croda_da_Lago_%288571524764%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "chripell from Friuli, Italy"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Dalla_forcella_Col_dei_Bos_%28Dolomiti_d%27Ampezzo%29.jpg/1280px-Dalla_forcella_Col_dei_Bos_%28Dolomiti_d%27Ampezzo%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Stefano Carati"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Croda_da_Lago_nord.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "a": "Nicolò from Italia"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Monte_Cernera.jpg/1280px-Monte_Cernera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Robertk9410"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Lago_federa_-_croda_da_lago_-_mondeval.jpg/1280px-Lago_federa_-_croda_da_lago_-_mondeval.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "El-turbio"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Croda_da_Lago_20170723_130922.jpg/1280px-Croda_da_Lago_20170723_130922.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Ka23 13"
+   }
+  ],
+  "Civetta": [
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/I_colori_delle_Dolomiti.jpg/1280px-I_colori_delle_Dolomiti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Eliusoutdoor"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Dolomiti_Bellunesi%2C_monte_civetta.jpg/1280px-Dolomiti_Bellunesi%2C_monte_civetta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Marco pestarino"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Dolomiti_lucane_%28Basilicata%29.jpg/1280px-Dolomiti_lucane_%28Basilicata%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "DinaBenedettoFerrandina"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Wv_Marmolada_banner.jpg/1280px-Wv_Marmolada_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Daniele1357"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Colle_Santa_Lucia_-_Viewpoint_to_Civeta%2C_Pelmo_-_panoramio.jpg/1280px-Colle_Santa_Lucia_-_Viewpoint_to_Civeta%2C_Pelmo_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Zoran Kurelić Rabko"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Lago_Coldai_6.jpg/1280px-Lago_Coldai_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "kallerna"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Arabba_from_Sella_group.JPG/1280px-Arabba_from_Sella_group.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/La_Parete_delle_Pareti.jpg/1280px-La_Parete_delle_Pareti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Eliusoutdoor"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Puez_Cresp%C3%ABina_Mont_de_S%C3%ABura_da_Piza_de_Puez_da_Mez.jpg/1280px-Puez_Cresp%C3%ABina_Mont_de_S%C3%ABura_da_Piza_de_Puez_da_Mez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Civetta_Monte_Pore.jpg/1280px-Civetta_Monte_Pore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/7/71/Autunno_sul_sorapis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "a": "Sergio boldrin"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Colle_Santa_Lucia_-_Viewpoint_to_Marmolada%2C_Sella_Ronda_-_panoramio.jpg/1280px-Colle_Santa_Lucia_-_Viewpoint_to_Marmolada%2C_Sella_Ronda_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Zoran Kurelić Rabko"
+   }
+  ],
+  "Sorapiss": [
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Sorapis.jpg/1280px-Sorapis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Giovanniflorian"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Lago_Sorapis.jpg/1280px-Lago_Sorapis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "ZzKilo"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Sorapiss_4.jpg/1280px-Sorapiss_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Rambolola"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Lago_di_sorapiss.jpg/1280px-Lago_di_sorapiss.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Alessia Fioraso"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Sorapiss_2.jpg/1280px-Sorapiss_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Rambolola"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Gruppo_del_Sorapiss.jpg/1280px-Gruppo_del_Sorapiss.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Jay 1897"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/9/96/Lake_sorapiss_morning.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "a": "Kufoleto"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Sorapiss.jpg/1280px-Sorapiss.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Rambolola"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Cortina_d%27Ampezzo_30.jpg/1280px-Cortina_d%27Ampezzo_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Zairon"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Arrampicando_sullo_Spigolo_Giallo_-_Flickr_-_chripell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "a": "chripell from Blackrock, Emerald Isle"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/9/97/Dito_dio_sorapiss.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "a": "Kufoleto &amp; M.Ventayol"
+   }
+  ],
+  "Sass Rigais": [
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Sass_Rigais_-_panoramio_%281%29.jpg/1280px-Sass_Rigais_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Francesco Zanardini"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Tornando_dal_Sass_Rigais_-_panoramio.jpg/1280px-Tornando_dal_Sass_Rigais_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Francesco Zanardini"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Sass_Rigais_-_panoramio.jpg/1280px-Sass_Rigais_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Francesco Zanardini"
+   }
+  ],
+  "Catinaccio Rosengarten": [
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Gruppo_del_Catinaccio_09.jpg/1280px-Gruppo_del_Catinaccio_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Adert"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Gruppo_del_Catinaccio_19.jpg/1280px-Gruppo_del_Catinaccio_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Adert"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Gruppo_del_Catinaccio_-_Passo_di_Antermoia_10.jpg/1280px-Gruppo_del_Catinaccio_-_Passo_di_Antermoia_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Adert"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Gruppo_del_Catinaccio_11.jpg/1280px-Gruppo_del_Catinaccio_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Adert"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Catinaccio_da_Col_Valvacin.JPG/1280px-Catinaccio_da_Col_Valvacin.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Bbruno"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Gruppo_del_Catinaccio_-_Valli_del_Vajolet_2.jpg/1280px-Gruppo_del_Catinaccio_-_Valli_del_Vajolet_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Adert"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Dolomiten-009.jpg/1280px-Dolomiten-009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Fischer.H"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Gruppo_del_Catinaccio_-_18.jpg/1280px-Gruppo_del_Catinaccio_-_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Adert"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Catinaccio_Centrale.jpg/1280px-Catinaccio_Centrale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Bbruno"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Rifugio_Stella_Alpina_01.jpg/1280px-Rifugio_Stella_Alpina_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Godromil"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Trentino-189.jpg/1280px-Trentino-189.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Fischer.H"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Gruppo_del_Catinaccio_18.jpg/1280px-Gruppo_del_Catinaccio_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Adert"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Rosengartenspitze_S.JPG/1280px-Rosengartenspitze_S.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Svíčková"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Gruppo_del_Catinaccio_-_Valle_Vajolet_da_Passo_Antermoia.jpg/1280px-Gruppo_del_Catinaccio_-_Valle_Vajolet_da_Passo_Antermoia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Adert"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Gruppo_del_Catinaccio_-_Ciampedie2.jpg/1280px-Gruppo_del_Catinaccio_-_Ciampedie2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Adert"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Rosengartenspitze.jpg/1280px-Rosengartenspitze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": ""
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Gruppo_del_Catinaccio_23.jpg/1280px-Gruppo_del_Catinaccio_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Adert"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Trentino-009.jpg/1280px-Trentino-009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Fischer.H"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Rosengarten_%28Berg%29.jpg/1280px-Rosengarten_%28Berg%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": ""
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Gruppo_del_Catinaccio_-_Passo_di_Antermoia_17.jpg/1280px-Gruppo_del_Catinaccio_-_Passo_di_Antermoia_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Adert"
+   }
+  ],
+  "Cinque Torri": [
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Lagazuoi_Torri_del_Falzarego_Col_dei_Bos_Tofana_de_Rozes_Cinque_Torri.jpg/1280px-Lagazuoi_Torri_del_Falzarego_Col_dei_Bos_Tofana_de_Rozes_Cinque_Torri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Cinque_Torri_in_tenda_con_Sambo.jpg/1280px-Cinque_Torri_in_tenda_con_Sambo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Marcosambo1976"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Titolo_-_Flickr_-_Alessio_Battistella.jpg/1280px-Titolo_-_Flickr_-_Alessio_Battistella.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Alessio Battistella from Pordenone, Italia"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Le_cinque_Torri_-_panoramio.jpg/1280px-Le_cinque_Torri_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Francesco Zanardini"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Torri_Grande_-_Flickr_-_CarlosBaquero.jpg/1280px-Torri_Grande_-_Flickr_-_CarlosBaquero.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Carlos Baquero from Porto/Braga, Portugal"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Colors_Contrast_%28181754203%29.jpeg/1280px-Colors_Contrast_%28181754203%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\nFabrizio Lunardi"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Cinque_Torri%2C_21_agosto_2023.jpg/1280px-Cinque_Torri%2C_21_agosto_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Er Tovaja"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Le_5_torri_dal_rifugio_Nuvolau.jpg/1280px-Le_5_torri_dal_rifugio_Nuvolau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Angelica Longanesi Cattani"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Tofana_de_Rozes_Cinque_Torri.jpg/1280px-Tofana_de_Rozes_Cinque_Torri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   }
+  ],
+  "Marmarole": [
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Marmarole_winter.JPG/1280px-Marmarole_winter.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Antonio De Lorenzo"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Marmarole_Sorapiss_winter.JPG/1280px-Marmarole_Sorapiss_winter.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Antonio De Lorenzo"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Marmarole%2C_Antelao_and_Sorapiss_range_from_Popena%2C_Auronzo_di_Cadore%2C_Veneto%2C_Italy%2C_2025_October.jpg/1280px-Marmarole%2C_Antelao_and_Sorapiss_range_from_Popena%2C_Auronzo_di_Cadore%2C_Veneto%2C_Italy%2C_2025_October.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Ximonic (Simo Räsänen)"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Marmarole_viste_da_Lorenzago.JPG/1280px-Marmarole_viste_da_Lorenzago.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Lunardo"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Marmarole01.jpg/1280px-Marmarole01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Verozmp"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Scoter.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "a": "Verozmp"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Marmarole05.JPG/1280px-Marmarole05.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Katus84"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Sunrise_marmarole_dolomites.jpg/1280px-Sunrise_marmarole_dolomites.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Antonio De Lorenzo"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Marmarole02.jpg/1280px-Marmarole02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Verozmp"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/8/88/Belluno_1995_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "a": "LBM1948"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/LagoCadore04.JPG/1280px-LagoCadore04.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Katus84"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Maraia_casera_2.JPG/1280px-Maraia_casera_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Antonio De Lorenzo"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Marmarole_Orientali_summits_from_northwest%2C_Auronzo_di_Cadore%2C_Belluno%2C_Veneto%2C_Italy%2C_2025_October.jpg/1280px-Marmarole_Orientali_summits_from_northwest%2C_Auronzo_di_Cadore%2C_Belluno%2C_Veneto%2C_Italy%2C_2025_October.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Ximonic (Simo Räsänen)"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Towards_Marmarole%2C_Bastioni%2C_Antelao_and_Sorapiss_from_Popena%2C_Auronzo_di_Cadore%2C_Veneto%2C_Italy%2C_2025_October.jpg/1280px-Towards_Marmarole%2C_Bastioni%2C_Antelao_and_Sorapiss_from_Popena%2C_Auronzo_di_Cadore%2C_Veneto%2C_Italy%2C_2025_October.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Ximonic (Simo Räsänen)"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Marmarole.JPG/1280px-Marmarole.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "88bl"
+   }
+  ],
+  "Cimon della Pala": [
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Monte_Mulaz_sw.jpg/1280px-Monte_Mulaz_sw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Carlo Albino Turra"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Dolomiti_6_Parco_Naturale_Paneveggio_Pale_di_San_Martino_-_Cimon_della_Pala.jpg/1280px-Dolomiti_6_Parco_Naturale_Paneveggio_Pale_di_San_Martino_-_Cimon_della_Pala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Carlo Albino Turra"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Dolomiti_Parco_Naturale_Paneveggio_Pale_di_San_Martino_-_Cimon_della_Pala_-_Vezzana_Bureloni_e_Mulaz.jpg/1280px-Dolomiti_Parco_Naturale_Paneveggio_Pale_di_San_Martino_-_Cimon_della_Pala_-_Vezzana_Bureloni_e_Mulaz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Carlo Albino Turra"
+   }
+  ],
+  "Latemar": [
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Pala_di_Santa_during_the_winter_03.jpg/1280px-Pala_di_Santa_during_the_winter_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Llorenzi"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Latemar_01.jpg/1280px-Latemar_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Bbruno"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Monte_Agnello_2358_m_2016-10-30.jpg/1280px-Monte_Agnello_2358_m_2016-10-30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "2015 Michael 2015"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Lago_di_Carezza%2C_Nova_Levante_BZ%2C_Dolomiti%2C_Italia_by_Marco_Zaffignani.jpg/1280px-Lago_di_Carezza%2C_Nova_Levante_BZ%2C_Dolomiti%2C_Italia_by_Marco_Zaffignani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Zaffozaffo"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/2014_Rosengarten-Latemar_076_Rotwandh%C3%BCtte.JPG/1280px-2014_Rosengarten-Latemar_076_Rotwandh%C3%BCtte.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Steffen 962"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Zanggen%2C_2488_m.jpg/1280px-Zanggen%2C_2488_m.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "2015 Michael 2015"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Latemar_-_panoramio_%281%29.jpg/1280px-Latemar_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Francesco Zanardini"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Massiccio_del_Latemar_dal_lago_di_Carezza.jpg/1280px-Massiccio_del_Latemar_dal_lago_di_Carezza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Einaz80"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Lago_di_Carezza_e_Latemar.jpg/1280px-Lago_di_Carezza_e_Latemar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Einaz80"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Latemar.jpg/1280px-Latemar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Mosco at Italian Wikipedia"
+   }
+  ],
+  "Sassolungo": [
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Seiser_Alm_Langkofel_Pferdeschlitten.jpg/1280px-Seiser_Alm_Langkofel_Pferdeschlitten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Saslonch_udu_da_Mont_de_Seuc.jpg/1280px-Saslonch_udu_da_Mont_de_Seuc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Langkofel_02.jpg/1280px-Langkofel_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "H. Zell"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Langkofel_group_from_the_Sella_pass_2016.jpg/1280px-Langkofel_group_from_the_Sella_pass_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Saslonch_da_Mont_de_Seuc.jpg/1280px-Saslonch_da_Mont_de_Seuc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Langkofel_group_from_Sellajoch_Gherd%C3%ABina.jpg/1280px-Langkofel_group_from_Sellajoch_Gherd%C3%ABina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n  This Photo was taken by Wolfgang Moroder.  \nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Saslonch_da_Sacun_Gherd%C3%ABina.jpg/1280px-Saslonch_da_Sacun_Gherd%C3%ABina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/I08_002_Langkofel.jpg/1280px-I08_002_Langkofel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Falk2"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Langkofel_group_from_Sellajoch_Col_Rodella_Fassa.jpg/1280px-Langkofel_group_from_Sellajoch_Col_Rodella_Fassa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Langkofel_Piz_Sella_connection_Ciampinoi_Plan_de_Gralba.JPG/1280px-Langkofel_Piz_Sella_connection_Ciampinoi_Plan_de_Gralba.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Langkofel_-_Campanile.jpg/1280px-Langkofel_-_Campanile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "H. Zell"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Der_Langkofel_zwischen_Sellajoch_und_Seiser_Alm.jpg/1280px-Der_Langkofel_zwischen_Sellajoch_und_Seiser_Alm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Ramon Zemmer"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Langkofel_Group_01.jpg/1280px-Langkofel_Group_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "H. Zell"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Langkofel_03.jpg/1280px-Langkofel_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "H. Zell"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Saslong_udu_da_Sacun_ora.jpg/1280px-Saslong_udu_da_Sacun_ora.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Langkofel_01.jpg/1280px-Langkofel_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "H. Zell"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Seiser_Alm_Alpe_di_Siusi_Sassolungo_Langkofel_Val_Gardena_S%C3%BCdtirol_Alto_Adige_Italia_Italy_%282017.09.21%29.jpg/1280px-Seiser_Alm_Alpe_di_Siusi_Sassolungo_Langkofel_Val_Gardena_S%C3%BCdtirol_Alto_Adige_Italia_Italy_%282017.09.21%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Geir Hval (www.MacWhale.eu)"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/SassoLungo.jpg/1280px-SassoLungo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Alexdp69"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Sacun_cun_Saslonch_Gherd%C3%ABina.jpg/1280px-Sacun_cun_Saslonch_Gherd%C3%ABina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n  This Photo was taken by Wolfgang Moroder.  \nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Sassolungo_Langkofel_Val_Gardena_S%C3%BCdtirol_Alto_Adige_Italia_Italy_%282017.09.21%29.jpg/1280px-Sassolungo_Langkofel_Val_Gardena_S%C3%BCdtirol_Alto_Adige_Italia_Italy_%282017.09.21%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Geir Hval (www.MacWhale.eu)"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Sassolungo_Langkofel_Val_Gardena_S%C3%BCdtirol_Alto_Adige_Italia_Italy_%282010.10.20%29.jpg/1280px-Sassolungo_Langkofel_Val_Gardena_S%C3%BCdtirol_Alto_Adige_Italia_Italy_%282010.10.20%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Geir Hval (www.MacWhale.eu)"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Saslonch_da_Hartl_Mont_de_S%C3%ABuc.jpg/1280px-Saslonch_da_Hartl_Mont_de_S%C3%ABuc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Langkofel_Group_03.jpg/1280px-Langkofel_Group_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "H. Zell"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Langkofel_1.JPG/1280px-Langkofel_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Steinsplitter"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Saslonch_y_Sela_da_Mont_S%C3%ABuc.jpg/1280px-Saslonch_y_Sela_da_Mont_S%C3%ABuc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Saslonch_cun_legrima.jpg/1280px-Saslonch_cun_legrima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Sassolungo_visto_dalla_cima_del_Sass_Pordoi.jpg/1280px-Sassolungo_visto_dalla_cima_del_Sass_Pordoi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Marco Slavazza"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Sasplat_D%C3%ABnt_Innerkofler_Grohman_Cin_D%C3%ABic_y_Saslonch_dal_Col_Rodela.jpg/1280px-Sasplat_D%C3%ABnt_Innerkofler_Grohman_Cin_D%C3%ABic_y_Saslonch_dal_Col_Rodela.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/I07_969_Gr%C3%B6dnerjoch%2C_Langkofel.jpg/1280px-I07_969_Gr%C3%B6dnerjoch%2C_Langkofel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Falk2"
+   }
+  ],
+  "Odle Geisler": [
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Ncisles_Col_Raisa_Roa_blancia_Gherdeina.jpg/1280px-Ncisles_Col_Raisa_Roa_blancia_Gherdeina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Odles_Cisles_y_Mastle_pinus_Cembra.jpg/1280px-Odles_Cisles_y_Mastle_pinus_Cembra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Odles_sud_i_fermedes.jpg/1280px-Odles_sud_i_fermedes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Odles_as_seen_from_Seceda.JPG/1280px-Odles_as_seen_from_Seceda.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Odles_da_Sec%C3%ABda_Gherd%C3%ABina.jpg/1280px-Odles_da_Sec%C3%ABda_Gherd%C3%ABina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Ncisles_Sociautier_Odles_Val_da_Mesdi.jpg/1280px-Ncisles_Sociautier_Odles_Val_da_Mesdi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Dolomiti_-_Le_Odle_-_panoramio.jpg/1280px-Dolomiti_-_Le_Odle_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Francesco Zanardini"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Geislergruppe_-_Gruppo_delle_Odle..jpg/1280px-Geislergruppe_-_Gruppo_delle_Odle..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Tobia Maio"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Barn_on_Mastl%C3%A9_mountain_Gherd%C3%ABina.jpg/1280px-Barn_on_Mastl%C3%A9_mountain_Gherd%C3%ABina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Juac_Odles_Cisles_d%27insta.jpg/1280px-Juac_Odles_Cisles_d%27insta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Val_Gardena_Cisles.JPG/1280px-Val_Gardena_Cisles.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Odles_Ncisles_Pieralongia.jpg/1280px-Odles_Ncisles_Pieralongia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Geislergruppe_vom_Col_dala_Pieres%2C_2747_m.jpg/1280px-Geislergruppe_vom_Col_dala_Pieres%2C_2747_m.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "2015 Michael 2015"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Geislergruppe_vom_Brogles-Sattel%2C_2119_m.jpg/1280px-Geislergruppe_vom_Brogles-Sattel%2C_2119_m.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "2015 Michael 2015"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Odles_Stevia_Col_dala_Pieres.jpg/1280px-Odles_Stevia_Col_dala_Pieres.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Juac_Odles_Cisles_Mastle.jpg/1280px-Juac_Odles_Cisles_Mastle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Odles_ududes_da_Funes_2.JPG/1280px-Odles_ududes_da_Funes_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n  This Photo was taken by Wolfgang Moroder.  \nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Val_de_Funes_cun_la_Odles_d%27auton_S%C3%BCdtirol.jpg/1280px-Val_de_Funes_cun_la_Odles_d%27auton_S%C3%BCdtirol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Odles_est_y_Fermedes.jpg/1280px-Odles_est_y_Fermedes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Odles_da_Seceda_da_duman_tl_nibl_Gherd%C3%ABina.jpg/1280px-Odles_da_Seceda_da_duman_tl_nibl_Gherd%C3%ABina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Ncisles_Odles_Sas_Rigais_Cansles_Gherdeina.jpg/1280px-Ncisles_Odles_Sas_Rigais_Cansles_Gherdeina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   }
+  ],
+  "Sciliar Schlern": [
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Scialpinismo_sotto_il_Catinaccio.jpg/1280px-Scialpinismo_sotto_il_Catinaccio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Giacomo Berardi"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Mont_de_S%C3%ABuc_cun_Scili%C3%ABr_y_purtoies_da_pudej%C3%A9.jpg/1280px-Mont_de_S%C3%ABuc_cun_Scili%C3%ABr_y_purtoies_da_pudej%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Castelrotto_%28BZ%29_-_1.jpg/1280px-Castelrotto_%28BZ%29_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Luciobocchi"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Tierser_Tal_V%C3%B6lser_Aicha.jpg/1280px-Tierser_Tal_V%C3%B6lser_Aicha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Plentn"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Schlern_Kastelruth.jpg/1280px-Schlern_Kastelruth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Markko27"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Schlern_-_Seiser_Alm_-_September.jpg/1280px-Schlern_-_Seiser_Alm_-_September.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Noclador"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Mont_de_S%C3%ABuc_sal_Icaro_Scili%C3%ABr.jpg/1280px-Mont_de_S%C3%ABuc_sal_Icaro_Scili%C3%ABr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Altipiano_dello_Sciliar_-_panoramio.jpg/1280px-Altipiano_dello_Sciliar_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Francesco Zanardini"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Schlern_Rittner_Bahn.jpg/1280px-Schlern_Rittner_Bahn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Rainerhaufe"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Seiser_Alm_Alpe_di_Siusi_Schlern_Massiccio_dello_Sciliar_S%C3%BCdtirol_Alto_Adige_Italia_Italy_%282017.09.21%29.jpg/1280px-Seiser_Alm_Alpe_di_Siusi_Schlern_Massiccio_dello_Sciliar_S%C3%BCdtirol_Alto_Adige_Italia_Italy_%282017.09.21%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Geir Hval (www.MacWhale.eu)"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/9/96/User_Fantasy_home_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "a": "No machine-readable author provided. Fantasy assumed (based on copyright claims)."
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Fi%C3%A8_allo_Sciliar_da_Siffiano_01.jpg/1280px-Fi%C3%A8_allo_Sciliar_da_Siffiano_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Syrio"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Barbian_Blick_zum_Santner_und_Schlern_%281_05-2015%29.jpg/1280px-Barbian_Blick_zum_Santner_und_Schlern_%281_05-2015%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Oliver Abels"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Sciliar_dal_alto.JPG/1280px-Sciliar_dal_alto.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Llorenzi"
+   }
+  ],
+  "Tofane": [
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Faloria_Cortina_d%27Ampezzo_10.jpg/1280px-Faloria_Cortina_d%27Ampezzo_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "kallerna"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/9/98/Dolomiten_Tofana-Sued.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "a": "Mg-k."
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Le_Tofane.jpg/1280px-Le_Tofane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "BelPatty86"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Vista_del_Col_Ros%C3%A0_da_Pian_de_Ra_Spines.jpg/1280px-Vista_del_Col_Ros%C3%A0_da_Pian_de_Ra_Spines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Stefania Mancini"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Colors_Contrast_%28181754203%29.jpeg/1280px-Colors_Contrast_%28181754203%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\nFabrizio Lunardi"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Dolomiti%2C_Tofana_di_Rozes%2C_Olimpia_delle_Tofane_ski_race_course%2C_rock_peaks_Ra_Pegna_and_Ra_Bujela_-_Faloria_Cortina_d%27Ampezzo_14_%28cropped%29.jpg/1280px-Dolomiti%2C_Tofana_di_Rozes%2C_Olimpia_delle_Tofane_ski_race_course%2C_rock_peaks_Ra_Pegna_and_Ra_Bujela_-_Faloria_Cortina_d%27Ampezzo_14_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "kallerna, crop of photo: User:LudwigSebastianMicheler"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Pordoijoch_Ost.jpg/1280px-Pordoijoch_Ost.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Aconcagua"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Tofana_-_Dolomiti_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "a": "Supervht at Czech Wikipedia\n\n(Original text: Vladimír Drápalík)"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Cortina_pasqua_2007_-_Tofane.JPG/1280px-Cortina_pasqua_2007_-_Tofane.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "MaiDireLollo"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Cortina_d%27Ampezzo_-_Comune_di_Cortina_d%27Ampezzo_-_2023-09-27_15-35-37_011.jpg/1280px-Cortina_d%27Ampezzo_-_Comune_di_Cortina_d%27Ampezzo_-_2023-09-27_15-35-37_011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Acquario51"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Le_Tofane_2.jpg/1280px-Le_Tofane_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "BelPatty86"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Gruppo_di_Fanes_e_gruppo_delle_Tofane.jpg/1280px-Gruppo_di_Fanes_e_gruppo_delle_Tofane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Beltero"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Faloria_Cortina_d%27Ampezzo_14.jpg/1280px-Faloria_Cortina_d%27Ampezzo_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "kallerna"
+   }
+  ],
+  "Marmolada": [
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Marmolada_%2B_Sellaronda_tour_43.jpg/1280px-Marmolada_%2B_Sellaronda_tour_43.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "kallerna"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Marmolada_%2B_Sellaronda_tour_25.jpg/1280px-Marmolada_%2B_Sellaronda_tour_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "kallerna"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Marmolada_Sunset.jpg/1280px-Marmolada_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Dmitry A. Mottl"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Marmolada_%2B_Sellaronda_tour_14.jpg/1280px-Marmolada_%2B_Sellaronda_tour_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "kallerna"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Marmolada_%2B_Sellaronda_tour_18.jpg/1280px-Marmolada_%2B_Sellaronda_tour_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "kallerna"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Marmolada_%2B_Sellaronda_tour_33.jpg/1280px-Marmolada_%2B_Sellaronda_tour_33.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "kallerna"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Marmolada_%2B_Sellaronda_tour_26.jpg/1280px-Marmolada_%2B_Sellaronda_tour_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "kallerna"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Marmolada_02.jpg/1280px-Marmolada_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "H. Zell"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Puez_-_Sella_-_Marmolada.jpg/1280px-Puez_-_Sella_-_Marmolada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "H. Zell"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Marmolada_20170727_154824.jpg/1280px-Marmolada_20170727_154824.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Ka23 13"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Marmolada_%2B_Sellaronda_tour_30.jpg/1280px-Marmolada_%2B_Sellaronda_tour_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "kallerna"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Marmolata%2C_3343m.jpg/1280px-Marmolata%2C_3343m.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "2015 Michael 2015"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Marmolada_nelle_Dolomiti.jpg/1280px-Marmolada_nelle_Dolomiti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Marmolada_%2B_Sellaronda_tour_42.jpg/1280px-Marmolada_%2B_Sellaronda_tour_42.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "kallerna"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Marmolada_01.jpg/1280px-Marmolada_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "H. Zell"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Marmolada_from_Passo_Giau%2C_Belluno%2C_Veneto%2C_Italy%2C_2025_October.jpg/1280px-Marmolada_from_Passo_Giau%2C_Belluno%2C_Veneto%2C_Italy%2C_2025_October.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Ximonic (Simo Räsänen)"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Marmolada%2C_Italy.jpg/1280px-Marmolada%2C_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Marco Bonomo"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Marmolada_%2B_Sellaronda_tour_40.jpg/1280px-Marmolada_%2B_Sellaronda_tour_40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "kallerna"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Marmolada_%2B_Sellaronda_tour_31.jpg/1280px-Marmolada_%2B_Sellaronda_tour_31.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "kallerna"
+   }
+  ],
+  "Piz Popena": [
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Rifugio_Venezia%2C_1946_m_und_Cristallogruppe.jpg/1280px-Rifugio_Venezia%2C_1946_m_und_Cristallogruppe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "2015 Michael 2015"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Monte_Cristallo_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "a": "Milijana Pavlović"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Monte_Cristallo_Lago_di_Sorapis_hike.jpg/1280px-Monte_Cristallo_Lago_di_Sorapis_hike.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "kallerna"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/6/68/Cristallo_%288571526646%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "a": "chripell from Friuli, Italy"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Rifugio_Lorenzi_-_Cristallo_-_panoramio.jpg/1280px-Rifugio_Lorenzi_-_Cristallo_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Francesco Zanardini"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/2/23/1024_D%C3%BCrrensee_mit_dem_Mte._Cristallo-2374.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "a": "Hedwig Storch"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Cortina_-_Cristallo_2.jpg/1280px-Cortina_-_Cristallo_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Tiia Monto"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Faloria_Cortina_d%27Ampezzo_12.jpg/1280px-Faloria_Cortina_d%27Ampezzo_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "kallerna"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Monte_Cristallo_dal_lago_di_Landro.jpg/1280px-Monte_Cristallo_dal_lago_di_Landro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Metallaro1980.\n\nOriginal uploader was Metallaro1980 at it.wikipedia"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Monte_Cristallo_dal_lago_di_Landro_%28cropped%29.jpg/1280px-Monte_Cristallo_dal_lago_di_Landro_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Metallaro1980.\n\nOriginal uploader was Metallaro1980 at it.wikipedia"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/J40_099_Cristallogruppe%2C_Val_Fonda.jpg/1280px-J40_099_Cristallogruppe%2C_Val_Fonda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Falk2"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/J40_095_Cristallogruppe.jpg/1280px-J40_095_Cristallogruppe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Falk2"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Cristallo_e_Tre_Cime_%288570433855%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "a": "chripell from Friuli, Italy"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Faloria_Cortina_d%27Ampezzo_13.jpg/1280px-Faloria_Cortina_d%27Ampezzo_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "kallerna"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Cristallo%2C_South_Tyrol_-_52104739412.jpg/1280px-Cristallo%2C_South_Tyrol_-_52104739412.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "dconvertini"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/J40_093_Cristallogruppe.jpg/1280px-J40_093_Cristallogruppe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Falk2"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/J40_085_Monte_Cristallo.jpg/1280px-J40_085_Monte_Cristallo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Falk2"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Cristallo_mountain_group.jpg/1280px-Cristallo_mountain_group.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Tiia Monto"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Monte_Cristallo_102_2298.jpg/1280px-Monte_Cristallo_102_2298.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Zavijavah"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/J40_092_Cristallogruppe.jpg/1280px-J40_092_Cristallogruppe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Falk2"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Piz_Popena%2BCristallo~2019_07_16.jpg/1280px-Piz_Popena%2BCristallo~2019_07_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\nThis picture is a work by Emmanuel Douzery.\nPlease credit this with: Picture : Emmanuel Douzery in the immediate vicinity of the picture.\nIf you use one of my works, please email me (account needed) or leave me a short message on my discussion page. It would be greatly appreciated!\nDo not copy this picture illegally by ignoring the terms of the license below, as it is not in the public domain.\nIf you would like special permission to use, license, or purchase the picture, please contact me to negotiate terms.\n\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Cristallo_2019.jpg/1280px-Cristallo_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Tiia Monto"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Massiccio_del_cristallo_-_panoramio.jpg/1280px-Massiccio_del_cristallo_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "corinasdavide"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Cristallo_mountain.jpg/1280px-Cristallo_mountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Tiia Monto"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/J40_097_Cristallogruppe.jpg/1280px-J40_097_Cristallogruppe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Falk2"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/J40_109_Cristallogruppe.jpg/1280px-J40_109_Cristallogruppe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Falk2"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Monte-Cristallo_Forcella-Staunies_3239a.jpg/1280px-Monte-Cristallo_Forcella-Staunies_3239a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Rüdiger Kratz, St. Ingbert"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/J40_089_Werk_Pl%C3%A4tzwiese%2C_Monte_Cristallo.jpg/1280px-J40_089_Werk_Pl%C3%A4tzwiese%2C_Monte_Cristallo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Falk2"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Monte_Cristallo_102_2297.jpg/1280px-Monte_Cristallo_102_2297.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Zavijavah"
+   }
+  ],
+  "Lagazuoi": [
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Sass_de_Stria_Falzarego_Lagazuoi.jpg/1280px-Sass_de_Stria_Falzarego_Lagazuoi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Cima_Lagazuoi.jpg/1280px-Cima_Lagazuoi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Sandra.bonizzato"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Il_Lagazuoi_e_il_Sass_de_Stria_al_tramonto.jpg/1280px-Il_Lagazuoi_e_il_Sass_de_Stria_al_tramonto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Yreen"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Mountain_dog_%28_Toni_%29_-_Rifugio_Lagazuoi_%28_Lagazoi%29_2752m_-_panoramio.jpg/1280px-Mountain_dog_%28_Toni_%29_-_Rifugio_Lagazuoi_%28_Lagazoi%29_2752m_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Zoran Kurelić Rabko"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Rovine_sul_sentiero_del_Fronte_06.jpg/1280px-Rovine_sul_sentiero_del_Fronte_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Syrio"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Lagazuoi_05.jpg/1280px-Lagazuoi_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Clemens Stockner"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Tofana_de_Rozes_from_Lagazuoi.jpg/1280px-Tofana_de_Rozes_from_Lagazuoi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "WIKI RC 2020!"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Falzarego-N.jpg/1280px-Falzarego-N.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "FkMohr, Fotografin Supakon Mohr"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Lagazuoi_Torri_del_Falzarego_Col_dei_Bos_Tofana_de_Rozes.jpg/1280px-Lagazuoi_Torri_del_Falzarego_Col_dei_Bos_Tofana_de_Rozes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Il_panorama_vicino_al_rifugio_Lagazuoi.jpg/1280px-Il_panorama_vicino_al_rifugio_Lagazuoi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "RacheVi"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Lagazuoi_Torri_del_Falzarego_Col_dei_Bos_Tofana_de_Rozes_Cinque_Torri.jpg/1280px-Lagazuoi_Torri_del_Falzarego_Col_dei_Bos_Tofana_de_Rozes_Cinque_Torri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Rovine_sul_sentiero_del_Fronte_08.jpg/1280px-Rovine_sul_sentiero_del_Fronte_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Syrio"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Minuartia_sedoides_Lagazuoi_02.jpg/1280px-Minuartia_sedoides_Lagazuoi_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Syrio"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Enrosadira_sul_Lagazuoi.jpg/1280px-Enrosadira_sul_Lagazuoi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Yreen"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Dolomiti%2C_Tofana_di_Rozes%2C_Olimpia_delle_Tofane_ski_race_course%2C_rock_peaks_Ra_Pegna_and_Ra_Bujela_-_Faloria_Cortina_d%27Ampezzo_14_%28cropped%29.jpg/1280px-Dolomiti%2C_Tofana_di_Rozes%2C_Olimpia_delle_Tofane_ski_race_course%2C_rock_peaks_Ra_Pegna_and_Ra_Bujela_-_Faloria_Cortina_d%27Ampezzo_14_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "kallerna, crop of photo: User:LudwigSebastianMicheler"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Averau_Forcella_Averau_Croda_Negra.jpg/1280px-Averau_Forcella_Averau_Croda_Negra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\n\n\n  This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.\n"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Dolomiti_Lagazuoi.jpg/1280px-Dolomiti_Lagazuoi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "Stecco Luigi"
+   },
+   {
+    "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Colors_Contrast_%28181754203%29.jpeg/1280px-Colors_Contrast_%28181754203%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "a": "\nFabrizio Lunardi"
+   }
+  ]
+ }
+}
