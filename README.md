@@ -4,7 +4,7 @@ You get a photo, you guess the mountain. Think GeoGuessr, but only for the Dolom
 
 ## How to play
 
-Open `[this](https://gehppappacqi.github.io/DolomitiGuesser/)` in a browser. You need internet, since the photos come live from Wikimedia Commons.
+Open [this](https://gehppappacqi.github.io/DolomitiGuesser/) in a browser. You need internet, since the photos come live from Wikimedia Commons.
 
 - **Multiple choice**: pick the right name out of four.
 - **Pinpoint**: drop a pin on the map where you think the peak is. The closer you are, the more points you get.
