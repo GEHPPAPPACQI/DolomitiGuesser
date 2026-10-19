@@ -96,5 +96,14 @@ $("exp").onclick=()=>{const a=document.createElement("a");a.href=URL.createObjec
 $("imp").onclick=()=>$("fi").click();
 $("fi").onchange=async e=>{try{const d=JSON.parse(await e.target.files[0].text());(Array.isArray(d)?d:d.bl||[]).forEach(x=>BL.add(x));
  for(const m in d.wl||{}){WL[m]=WL[m]||[];d.wl[m].forEach(p=>{if(!WL[m].some(x=>x.u===p.u))WL[m].push(p)})}saveBL();alert("Imported")}catch(x){alert("Invalid file")}};
-saveBL();next();
+(async()=>{
+ let d=null;
+ for(const u of ["blacklist.json?t="+Date.now(),"https://raw.githubusercontent.com/GEHPPAPPACQI/DolomitiGuesser/main/blacklist.json"]){
+  try{const r=await fetch(u);if(r.ok){d=await r.json();break}}catch(e){}}
+ try{if(!d)throw 0;
+  (Array.isArray(d)?d:d.bl||[]).forEach(x=>BL.add(x));
+  for(const m in d.wl||{}){WL[m]=WL[m]||[];d.wl[m].forEach(p=>{if(!WL[m].some(x=>x.u===p.u))WL[m].push(p)})}
+  console.log("blacklist.json loaded")}catch(e){console.log("No blacklist.json loaded (use Import on file://)")}
+ saveBL();next();
+})();
 </script></body></html>
